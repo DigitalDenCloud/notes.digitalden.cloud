@@ -9,6 +9,8 @@ image:
   lqip: data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAwCdASoUAAsAPzmGulQvKSWjMAgB4CcJZQAD4AIN+F/D1gAA/ui8yITjtPjyJPdHvywLMmNm7ssZG3j6rP0AAAA=
 ---
 
+<!--more-->
+
 ## Chapter 1: The Starting Point — Creating AI Content
 
 It started with content I was creating for `QA`. First, I built a foundational lesson called "Introduction to Agentic AI Systems" which covered what agentic AI is, the core components, AWS services that enable it, architecture design, and real-world use cases. Next, I created a lesson called "Building Your First Bedrock Agent". 
