@@ -4,10 +4,13 @@ date: 2025-12-14 08:00:00 - 0500
 categories: [AWS, Generative AI]
 tags: [AWS, Generative AI, Serverless, HTML, Static Websites, AWS Lambda, Amazon Bedrock, Amazon API Gateway]
 mermaid: true
+description: "This is the story of an agent. What began as a simple Amazon Bedrock agent demo evolved into a real, production agent running on my own website. It connects my documentation, notes, and projects into a single conversational interface. This started as a small experiment. Then it became a website feature. Now it feels like something bigger. v1.0 is just the beginning."
 image: 
   path: /assets/img/headers/deniz-agent-design.webp
   lqip: data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAwCdASoUAAsAPzmGulQvKSWjMAgB4CcJZQAD4AIN+F/D1gAA/ui8yITjtPjyJPdHvywLMmNm7ssZG3j6rP0AAAA=
 ---
+
+Try the agent at [digitalden.cloud](https://digitalden.cloud){:target="_blank"}
 
 <!--more-->
 
