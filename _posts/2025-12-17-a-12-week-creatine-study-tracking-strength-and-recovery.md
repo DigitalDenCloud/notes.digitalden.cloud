@@ -97,7 +97,7 @@ Training follows a progressive overload approach, with progression attempted whe
 
 The following compound barbell lifts are tracked consistently throughout the study.
 
-The selected rep ranges reflect commonly used strength training ranges for each exercise and were chosen to balance load, technical consistency, and repeatability across the study period. These ranges are not based solely on current performance, but on established strength training practice.
+The selected rep ranges reflect commonly used strength training practices and were chosen to balance load, technical consistency, and repeatability across the study period. These ranges are not based on current performance, but on established strength training principles.
 
 - **Barbell bench press**  
   4 to 6 reps  
@@ -114,6 +114,30 @@ The selected rep ranges reflect commonly used strength training ranges for each 
 - **Deadlift**  
   2 to 5 reps  
 
+---
+
+### Rep Range Rationale
+
+Rep ranges are not standardised across all lifts in this study. Instead, each lift is assigned a range that reflects its biomechanical demands, fatigue profile, and typical strength progression characteristics.
+
+Lower body compound movements such as squats and deadlifts impose significant systemic and axial fatigue. For these lifts, lower rep ranges allow heavier loading while reducing excessive fatigue accumulation, technical breakdown, and recovery noise between sessions. This improves repeatability and makes changes in strength output easier to detect over time.
+
+Upper body compound movements are distributed across slightly wider ranges based on their mechanical complexity and tolerance for volume. The bench press responds well to moderately heavy loading, while bent over rows are assigned a higher rep range to preserve technical consistency and limit lower back fatigue under load. The standing barbell shoulder press is kept in a lower rep range due to its high neurological demand and slower rate of progression.
+
+These lift specific rep ranges are commonly used in strength focused training and were selected to balance:
+- Load intensity  
+- Technical consistency  
+- Fatigue management  
+- Sensitivity to performance changes  
+
+Standardising all lifts to a single rep range would increase variability and reduce the ability to meaningfully track strength progression across movements with different fatigue and recovery characteristics.
+
+By assigning rep ranges based on established training practice rather than current performance, the study aims to capture genuine changes in strength capacity rather than short term fluctuations or artefacts of fatigue.
+
+---
+
+### Set Selection and Tracking Rules
+
 For each lift, a single top working set is recorded once per week. If a lift is performed multiple times within a week, only the best qualifying set within the defined rep range is used for tracking.
 
 > **Example**  
@@ -127,12 +151,9 @@ For each lift, a single top working set is recorded once per week. If a lift is 
 > Only **105 kg × 4 reps** would be recorded as the top working set, as it is the heaviest set completed within the defined 4 to 6 rep range.
 {: .prompt-tip }
 
-
 For deadlifts, lifting straps are used on top working sets to prevent grip strength from limiting posterior chain performance and to ensure consistency across sessions.
 
 Accessory exercises, additional volume, and secondary training days are not tracked as primary performance metrics.
-
----
 
 ### Secondary Performance Indicators
 
