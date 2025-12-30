@@ -16,24 +16,17 @@ Try the agent at [digitalden.cloud](https://digitalden.cloud){:target="_blank"}
 
 ## Chapter 1: The Starting Point — Creating AI Content
 
-It started with content I was creating for `QA`. First, I built a foundational lesson called "Introduction to Agentic AI Systems" which covered what agentic AI is, the core components, AWS services that enable it, architecture design, and real-world use cases. Next, I created a lesson called "Building Your First Bedrock Agent". 
+I had been creating lessons on Bedrock agents, and the demos were deliberately simple because I was trying to teach the mechanics. How to structure a Lambda function for Bedrock. How to define an OpenAPI schema. How to read a trace.
 
-For the demo, I built a simple "Cost Optimization Agent" that could provide AWS cost tips. It was deliberately basic as the tips were hardcoded in the Lambda function. I could have invoked a Bedrock model like Claude to generate dynamic responses, but I did not want to introduce concepts I was not teaching. The agent itself was straightforward, but that was the point. By keeping functionality simple, learners could focus on the mechanics: 
-- How to structure a Lambda function for Bedrock
-- How to define an OpenAPI schema
-- How to read a successful trace
-- How to diagnose a failed one
-- How to deploy safely with aliases
+After building a few demos, I realised agents were not just something to teach. I wanted to build one for myself.
 
-Following the demo, it was clear to me that agents were not just something to teach, but something to build with. I wanted to use that same pattern to create a real solution for my own website.
-
-This story is about how a lesson on building Bedrock agents turned into a real agent running on my own website.
+This is the story of how that idea turned into a real agent running on my website.
 
 ---
 
-## Chapter 2: The Idea — What If I Had This on My Website?
+## Chapter 2: The Idea
 
-That was when the idea clicked. What if I built an agent for my own website? How could I make it practical, something interesting and genuinely useful?
+What would an agent on my website actually do? How could I make it practical, something interesting and genuinely useful?
 
 ### My First Bedrock Integration: The Contact Form
 
@@ -72,9 +65,9 @@ Then came a better idea: what if the agent bridged all of my sites? I have:
 - [digitalden.cloud](https://digitalden.cloud){:target="_blank"} — main homepage where visitors can learn about me, contact me, and now interact with my agent  
 - [docs.digitalden.cloud](https://docs.digitalden.cloud){:target="_blank"} — where I document my AWS work and the solutions I build  
 - [gallery.digitalden.cloud](https://gallery.digitalden.cloud){:target="_blank"} — photography gallery showcasing photos I take with my Sony A6700  
-- [notes.digitalden.cloud](https://life.digitalden.cloud){:target="_blank"} — notes blog where I write about things I do
+- [notes.digitalden.cloud](https://notes.digitalden.cloud){:target="_blank"} — notes blog where I write about things I do
 
-Now, these sites are separate. What if the agent was the connection between them? A visitor asks a question, and the agent figures out which site has the answer. I liked that, however where would it live? How would people access it?
+Now, these sites are separate. What if the agent was the connection between them? A visitor asks a question, and the agent figures out which site has the answer. I liked that. However where would it live? How would people access it?
 
 ![DigitalDenCloud](/assets/img/posts/digitaldencloud.webp)
 
@@ -147,7 +140,7 @@ Then I thought, I could create a terminal-themed web UI. A terminal-style interf
 ![xterm.js](/assets/img/posts/xterm.webp)
 {: .w-50 .left }
 
-I looked at libraries like xterm.js and jQuery Terminal, which are feature rich and well-built, but they also introduce additional complexity that I did'nt really need. 
+I looked at libraries like xterm.js and jQuery Terminal, which are feature rich and well-built, but they also introduce additional complexity that I didn't really need. 
 
 At its core, the interaction was simple: capture user input, send it to an API Gateway endpoint, receive a response, and render it back to the screen. A full terminal emulator would not change that flow.
 
@@ -296,7 +289,7 @@ I ran the site locally to test the UI before connecting the backend. The termina
 
 ## Chapter 7: Building the Backend
 
-The backend was where the architecture turned into real AWS resources. Basically, it is made up of a small number of components, each with a clearly defined role. Rather than building one large Lambda to do everything, I split responsibilities so the agent could invoke tools only when it needed to.
+The backend was where the architecture turned into real AWS resources. It is made up of a small number of components, each with a clearly defined role. Rather than building one large Lambda to do everything, I split responsibilities so the agent could invoke tools only when it needed to.
 
 ### Searching Published Content
 
@@ -490,13 +483,8 @@ Right now, the agent only searches my documentation site, which was deliberate a
 My notes site is where I write about things I do and explore. Making that content searchable would allow the agent to answer more personal questions directly from what I have written, rather than just linking out to posts. Effectively, it could become my own knowledge base.
 
 ![bodrum](/assets/img/posts/bodrum.webp)
-{: .w-50 .left }
-
-{: .clearfix }
 
 My photography site contains rich metadata about each photo, including locations, dates, and camera settings. With that data exposed through an action group, the agent could answer questions like “What photos do you have from Japan?” or “What have you shot with the Sony A6700?”
-
-
 
 ### Full Content vs Summaries
 
