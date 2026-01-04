@@ -414,8 +414,8 @@ Result: Consistent exposure, no hunting, cleaner footage. The daylight window ar
 
 The Saturday session produced a 20-minute video covering squats and deadlifts. 140kg × 2 squats down to 120kg × 8 down to 100kg × 10, then deadlifts from 60kg up to the 190kg PB.
 
-<!-- TODO: Add YouTube link here -->
-[Watch the full session on YouTube](#){:target="_blank"}
+{% include embed/youtube.html id='zNKteQxWmns' %}
+{: .text-center }
 
 Not for views. For the archive.
 
