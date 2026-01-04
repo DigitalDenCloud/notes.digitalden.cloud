@@ -3,7 +3,7 @@ title: "Strength Snapshot — January 2026"
 date: 2026-01-03
 categories: [Training, Journal]
 tags: [Strength, Personal Record, Training Log, Documentation, Baseline]
-description: "A documentary snapshot of where I'm at physically in January 2025 — 78kg, 35 years old, and the strongest I've been. Full strength numbers, daily training journal, and why I'm documenting this now."
+description: "A documentary snapshot of where I'm at physically in January 2026 — 78kg, 35 years old, and the strongest I've been. Full strength numbers, daily training journal, and why I'm documenting this now."
 image: 
   path: /assets/img/headers/strength-snapshot-january.webp
   lqip: data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwBACdASoUABQAPxF+tlWsJ6SjKAgBgCIJZQDE2A66LtrQD2fpli2DAKuGdcg4AOAaRLcEibY4XmdIYWgamq+UIf86Cygu0xfhde0c7xoj5XqHNoAVAfAm0O1hSHvo4CDiT4Ft2s2ExQjII99k1MeGZ2Cz5JMJ/XFMyQAA
@@ -11,11 +11,11 @@ image:
 
 ## Introduction
 
-This post is a snapshot. A record of where I am physically in January 2025.
+This post is a snapshot. A record of where I am physically in January 2026.
 
 I'm 35 years old, weighing 78kg, and I'm in the best shape and strongest I've been. Over the past year, I significantly improved my diet, stayed consistent with training, and hit multiple lifetime personal records. I don't know how long this lasts. I don't know if I'll be hitting these numbers at 40. So I'm documenting it now, while I'm in it.
 
-This isn't a transformation story or a programme review. It's a physical inventory — every lift tested, every number recorded, captured across one week of training in early January 2025.
+This isn't a transformation story or a programme review. It's a physical inventory — every lift tested, every number recorded, captured across one week of training in early January 2026.
 
 ---
 
@@ -37,7 +37,7 @@ I'm building an archive. Here's why.
 
 ---
 
-## The Numbers — January 2025
+## The Numbers — January 2026
 
 ### Bodyweight
 
@@ -47,7 +47,7 @@ I'm building an archive. Here's why.
 
 ### Primary Strength Numbers
 
-A snapshot of current strength across key lifts — January 2025.
+A snapshot of current strength across key lifts — January 2026.
 
 | Lift | Heavy | Volume | Notes |
 |------|-------|--------|-------|
@@ -441,7 +441,7 @@ The same lifts will be tested again at the end of the 12 weeks. The goal is to s
 ### Bodyweight
 **78kg**
 
-### Top Lifts (January 2025)
+### Top Lifts (January 2026)
 
 | Lift | Best Performance |
 |------|------------------|
@@ -466,4 +466,4 @@ The same lifts will be tested again at the end of the 12 weeks. The goal is to s
 
 ---
 
-*Documented January 2025. 35 years old. 78kg. For the record.*
+*Documented January 2026. 35 years old. 78kg. For the record.*
