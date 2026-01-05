@@ -1,7 +1,7 @@
 ---
 title: "A 12 Week Creatine Study Tracking Strength and Recovery"
 date: 2026-01-04
-categories: [Training, Strength]
+categories: [Training, Journal]
 tags: [Creatine, Strength Training, Recovery, Personal Study, Training Log]
 mermaid: true
 description: "A 12 week personal study tracking the effects of creatine supplementation on strength, recovery, and training performance under consistent real world conditions."
