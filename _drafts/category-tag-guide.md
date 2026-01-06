@@ -8,10 +8,12 @@ Jekyll Chirpy allows a maximum of 2 categories per post.
 
 | Category | When to use |
 |----------|-------------|
-| **Training** | Any post about lifting, strength, gym sessions, programmes, nutrition for training |
-| **Journal** | Personal logs, snapshots, weekly updates, reflective posts — the "story" posts |
-| **Video** | Anything about filming, camera settings, footage, editing |
-| **Documentation** | Technical reference docs — the "how to" posts meant to be revisited |
+| **Training** | Lifting, strength, gym sessions, programmes |
+| **Nutrition** | Meals, recipes, macros, supplements, diet protocols |
+| **Video** | Filming, camera settings, footage, editing, gear |
+| **Journal** | Always paired with one of the above — personal logs, snapshots, stories, reflective posts |
+
+Every post uses Journal as the second category. It reflects that all posts are personal documentation with your voice, not generic reference material.
 
 ---
 
@@ -20,51 +22,53 @@ Jekyll Chirpy allows a maximum of 2 categories per post.
 Reusable tags to keep the site consistent.
 
 ### Training tags
-
 - `Strength Training`
 - `Training Log`
 - `Personal Record`
 - `Recovery`
+
+### Nutrition tags
+- `Meal Prep`
+- `Recipe`
+- `High Protein`
 - `Creatine`
+- `Supplements`
 
 ### Video/Camera tags
-
 - `Sony A6700`
 - `Sony 18-135mm`
 - `Sigma 18-50mm f/2.8` (when upgraded)
-- `Sigma 17-40mm f/1.8` (when upgraded)
+- `Sigma 17-70mm f/1.8` (when upgraded)
 - `Low Light`
 - `Gym Filming`
 
-### Format tags
-
-- `Technical Reference`
-- `Journal`
-
 ---
 
-## Common Category Combinations
+## Category Combinations
 
 | Post type | Categories |
 |-----------|------------|
-| Weekly creatine update | Training, Journal |
+| Weekly training update | Training, Journal |
 | New PB session log | Training, Journal |
-| Camera settings guide | Video, Documentation |
-| "How I film training" tutorial | Video, Documentation |
-| Filming a specific session (story + settings) | Video, Journal |
-| Nutrition protocol doc | Training, Documentation |
+| Creatine study | Training, Journal |
+| Strength snapshot | Training, Journal |
+| Meal rotation / recipe | Nutrition, Journal |
+| Supplement protocol | Nutrition, Journal |
+| What I eat post | Nutrition, Journal |
+| Camera settings guide | Video, Journal |
+| Filming a session | Video, Journal |
 | Gear review (lens, tripod) | Video, Journal |
 
 ---
 
 ## Decision Rule
 
-- **Is it a story/log?** → Journal
-- **Is it a reference doc?** → Documentation
-- **Is it about lifting?** → Training
-- **Is it about camera/filming?** → Video
+1. **What's the topic?**
+   - Lifting/gym → Training
+   - Food/supplements → Nutrition
+   - Camera/filming → Video
 
-Pick one from each pair if both apply.
+2. **Second category is always Journal**
 
 ---
 
@@ -74,7 +78,8 @@ Pick one from each pair if both apply.
 |------|------------|------|
 | Strength Snapshot — January 2026 | Training, Journal | Strength Training, Training Log, Personal Record |
 | A 12 Week Creatine Study | Training, Journal | Strength Training, Training Log, Creatine, Recovery |
-| Low Light Gym Filming | Video, Documentation | Sony A6700, Sony 18-135mm, Low Light, Gym Filming, Technical Reference |
+| Low Light Gym Filming | Video, Journal | Sony A6700, Sony 18-135mm, Low Light, Gym Filming |
+| Pan-Seared Chicken with Sautéed Vegetables | Nutrition, Journal | Meal Prep, Recipe, High Protein |
 
 ---
 
