@@ -10,7 +10,7 @@ This template captures your writing style, structure, and preferred use of Chirp
 ---
 title: "Post Title — Optional Subtitle"
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [Primary Category, Secondary Category]
+categories: [Primary Category, Journal]
 tags: [tag1, tag2, tag3, tag4]
 mermaid: true                    # Include if using diagrams
 math: true                       # Include if using equations
@@ -28,15 +28,33 @@ image:
 - Em dash (—) for subtitles: `"Building My First Bedrock Agent"` or `"Strength Snapshot — January 2026"`
 - Keep concise but descriptive
 
-**Categories you use:**
-- `[AWS, Generative AI]`
-- `[Training, Journal]`
-- `[Video, Documentation]`
+**Categories:**
+
+| Category | When to use |
+|----------|-------------|
+| Training | Lifting, strength, gym sessions, programmes |
+| Nutrition | Meals, recipes, macros, supplements |
+| Video | Filming, camera settings, footage, editing, gear |
+| Journal | Always paired with one of the above |
+
+Every post uses Journal as the second category. All posts are personal documentation with your voice.
+
+**Common combinations:**
+- `[Training, Journal]` — gym logs, strength snapshots, programmes
+- `[Nutrition, Journal]` — meals, recipes, supplement protocols
+- `[Video, Journal]` — camera guides, filming techniques, gear
+- `[AWS, Generative AI]` — technical project posts (exception to Journal rule)
 
 **Tags:**
 - Always lowercase
-- Mix of broad and specific: `[AWS, Amazon Bedrock, Lambda, Serverless]`
+- Mix of broad and specific
 - Include tools/technologies mentioned
+
+| Category | Example tags |
+|----------|--------------|
+| Training | `Strength Training`, `Training Log`, `Personal Record`, `Recovery` |
+| Nutrition | `Meal Prep`, `Recipe`, `High Protein`, `Creatine`, `Supplements` |
+| Video | `Sony A6700`, `Sony 18-135mm`, `Low Light`, `Gym Filming` |
 
 **Description:**
 - 1-2 sentences maximum
@@ -47,7 +65,7 @@ image:
 
 ## Post Structure Patterns
 
-You write four distinct post types. Each has its own structure:
+You write five distinct post types. Each has its own structure:
 
 ### Type 1: Narrative/Story Posts
 *Example: "Building My First Bedrock Agent"*
@@ -220,10 +238,10 @@ Best for: Ongoing experiments, studies, progress tracking
 
 ---
 
-### Type 3: Technical Reference/Documentation
+### Type 3: Technical Guide Posts
 *Example: "Low Light Gym Filming"*
 
-Best for: Settings guides, technical workflows, reference material
+Best for: Settings guides, technical workflows, reference material with personal context
 
 ```markdown
 ---
@@ -231,101 +249,81 @@ Best for: Settings guides, technical workflows, reference material
 ---
 
 ## Overview
-[What problem this solves, scope statement]
+[What this is, your setup, why you documented it]
 
-> **Scope**  
-> [What this covers and doesn't cover]
+> **Good for**  
+> [Who would find this useful]
 {: .prompt-info }
 
 ---
 
-## Equipment Reference
+## Equipment
 
-### [Component Category]
 | Component | Specification |
 |-----------|---------------|
 | ... | ... |
 
-### [Settings Category]
-| Setting | Value |
-|---------|-------|
-| ... | ... |
+---
 
-### Why These Settings
-[Brief rationale for each major choice]
+## [Core Process/Method]
+
+### Step 1: [First Step]
+[Instructions with specific values]
+
+### Step 2: [Second Step]
+[Instructions]
+
+> **Why [specific choice]**  
+> [Rationale for a key decision]
+{: .prompt-info }
+
+### Step 3: [Third Step]
+[Instructions]
 
 ---
 
-## [Core Concept 1]
+## [Settings/Parameters Reference]
 
-### The Problem
-[What goes wrong and why]
-
-> **Symptom**  
-> [How you know this is happening]
-{: .prompt-warning }
-
-### The Solution
-[How to fix it]
-
-| Parameter | Recommended | Notes |
-|-----------|-------------|-------|
+| Parameter | Value | Notes |
+|-----------|-------|-------|
 | ... | ... | ... |
 
-> **Procedure**  
-> 1. Step one  
-> 2. Step two  
-> 3. Step three
-{: .prompt-tip }
+---
+
+## Common Issues
+
+**[Issue name]:** [What goes wrong and how to fix it]
+
+**[Issue name]:** [What goes wrong and how to fix it]
 
 ---
 
-## [Core Concept 2]
-[Continue pattern...]
+## Notes
+
+**[Term]:** [Definition or explanation]
+
+**[Term]:** [Definition or explanation]
 
 ---
 
-## Common Issues and Solutions
+## Summary
 
-### Issue 1: [Problem Name]
-**Symptom:** [What you see]  
-**Cause:** [Why it happens]  
-**Solution:** [How to fix]
-
----
-
-## Quick Reference Card
-
-### Recommended Settings
-| Parameter | Value |
-|-----------|-------|
+| Component | Specification |
+|-----------|---------------|
 | ... | ... |
 
-### Pre-[Activity] Checklist
-- [ ] Item one
-- [ ] Item two
-- [ ] Item three
-
 ---
 
-## Revision History
-| Date | Version | Changes |
-|------|---------|---------|
-| YYYY-MM-DD | 1.0 | Initial documentation |
-
----
-
-*Technical reference document. Updated as new learnings are validated.*
+*Documented [date].*
 ```
 
 **Characteristics:**
-- Problem/solution structure
-- Heavy use of tables for settings and parameters
-- Warning prompts for common pitfalls
-- Tip prompts for procedures
-- Checklists for quick reference
-- Version history
-- Formal but accessible tone
+- Personal setup and context upfront
+- Step-by-step method sections
+- Tables for settings and parameters
+- Info prompts for rationale
+- Notes section for terminology
+- Summary table at end
 
 ---
 
@@ -445,6 +443,145 @@ Best for: Point-in-time records, personal documentation, archives
 
 ---
 
+### Type 5: Practical Guide/Recipe Posts
+*Example: "Pan-Seared Chicken with Sautéed Vegetables"*
+
+Best for: Meals, recipes, routines with variations/rotations
+
+```markdown
+---
+[front matter]
+---
+
+## Overview
+[What this is, where it fits in your routine]
+
+> **Good for**  
+> [Who would find this useful, when to use it]
+{: .prompt-info }
+
+---
+
+## Equipment
+
+| Component | Specification |
+|-----------|---------------|
+| ... | ... |
+
+---
+
+## Base Ingredients (Every Day)
+
+| Ingredient | Amount | Notes |
+|------------|--------|-------|
+| ... | ... | ... |
+
+[Note about what varies]
+
+---
+
+## Method
+
+### Step 1: Prep
+[Preparation instructions]
+
+### Step 2: [Main Process]
+[Core technique with specific values]
+
+> **[Technical term]**  
+> [Explanation of technique or test]
+{: .prompt-info }
+
+### Step 3: [Secondary Process]
+[Instructions]
+
+### Step 4: Finish
+[Final steps]
+
+---
+
+## [Reference Table]
+
+| Phase | Setting | Duration |
+|-------|---------|----------|
+| ... | ... | ... |
+
+---
+
+## The [X]-Day Rotation
+
+[Why rotation matters]
+
+---
+
+### Day 1 — [Variation Name]
+
+| Item | Amount | Method |
+|------|--------|--------|
+| ... | ... | ... |
+
+**Key nutrients:** [List]
+
+**Nutritional function:** [Why this matters]
+
+**Nutrition (full meal)**
+
+| Macro | Value |
+|-------|-------|
+| Protein | ~Xg |
+| Carbohydrates | ~Xg |
+| Fat | ~Xg |
+| Calories | ~X kcal |
+
+---
+
+[Repeat for each day]
+
+---
+
+## Quick Reference
+
+| Day | Variation | Key Benefit |
+|-----|-----------|-------------|
+| 1 | ... | ... |
+| 2 | ... | ... |
+
+---
+
+## Notes
+
+**[Term]:** [Definition or explanation]
+
+**[Term]:** [Definition or explanation]
+
+---
+
+## Summary
+
+| Component | Specification |
+|-----------|---------------|
+| ... | ... |
+
+[One-line summary of what this gives you]
+
+---
+
+*Documented [date].*
+```
+
+**Characteristics:**
+- Clear "what this is" framing upfront
+- Base ingredients/equipment that stay constant
+- Step-by-step method with specific values
+- Info prompts for technique explanations
+- Rotation/variation sections with individual breakdowns
+- Nutritional information per variation
+- Quick reference table for scanning
+- Notes section for terminology
+- Summary table at end
+
+---
+
 ## Writing Style Guide
 
 ### Voice and Tone
@@ -506,8 +643,8 @@ Instead of bullet points, use: "My sites include digitalden.cloud for the main h
 
 **Info (`.prompt-info`):** Context, scope statements, supplementary details
 ```markdown
-> **Scope**  
-> This guide focuses on solo documentation filming.
+> **Good for**  
+> Anyone wanting a quick, high-protein meal.
 {: .prompt-info }
 ```
 
@@ -645,6 +782,14 @@ Navigate to `/mnt/user-data/uploads`{: .filepath}
 | Value | 10 | | | |
 ```
 
+**Rotation/variation tables:**
+```markdown
+| Day | Variation | Key Benefit |
+|-----|-----------|-------------|
+| 1 | Spinach | Iron, magnesium |
+| 2 | Kale | Vitamin K, calcium |
+```
+
 ---
 
 ### Mermaid Diagrams
@@ -736,6 +881,9 @@ flowchart TB
 **Option 3: Problem statement**
 > "If your gym relies on overhead fluorescents with no natural light, it's low light."
 
+**Option 4: Simple description**
+> "One chicken breast, seared in a stainless steel pan, with a vegetable side sautéed in the same pan straight after. That's the meal."
+
 ### The "What This Isn't" Block
 
 Use early to set expectations:
@@ -743,6 +891,16 @@ Use early to set expectations:
 > **What this isn't**  
 > This is not a supplement endorsement. Not a transformation narrative. 
 > It's a personal log tracking whether creatine makes a measurable difference.
+{: .prompt-info }
+```
+
+### The "Good For" Block
+
+Use for practical guides:
+```markdown
+> **Good for**  
+> Anyone wanting a quick, high-protein meal. Works well post-workout 
+> since chicken breast is leucine-rich, which supports muscle recovery.
 {: .prompt-info }
 ```
 
@@ -783,9 +941,9 @@ The answer was clear.
 *Documented [date]. [Age]. [Weight/context]. For the record.*
 ```
 
-**For technical references:**
+**For practical guides:**
 ```markdown
-*Technical reference document. Updated as new learnings are validated.*
+*Documented [date].*
 ```
 
 **For project posts:**
@@ -812,6 +970,9 @@ Write: "I dropped shutter speed from 1/50 to 1/25, locked ISO at 800"
 
 Instead of: "Performance improved"
 Write: "Session rating went from 3.5/5 to 4.5/5"
+
+Instead of: "Add some butter"
+Write: "Add ~10g butter (Kerrygold or similar)"
 
 ### Acknowledge Limitations
 
@@ -846,6 +1007,7 @@ Before publishing:
 
 - [ ] Front matter complete (title, date, categories, tags, description, image)
 - [ ] LQIP generated for header image
+- [ ] Categories follow the [Topic, Journal] pattern
 - [ ] Description is compelling and accurate
 - [ ] Horizontal rules between major sections
 - [ ] Tables aligned and readable
@@ -884,7 +1046,7 @@ image:
 title: "A 12 Week Creatine Study Tracking Strength and Recovery"
 date: 2026-01-04
 categories: [Training, Journal]
-tags: [Creatine, Strength Training, Recovery, Personal Study]
+tags: [Strength Training, Training Log, Creatine, Recovery]
 mermaid: true
 description: "A 12 week personal study tracking the effects of creatine on strength and recovery under consistent real world conditions."
 image: 
@@ -893,13 +1055,13 @@ image:
 ---
 ```
 
-### Technical Reference
+### Technical Guide
 ```yaml
 ---
-title: "Low Light Gym Filming - Sony A6700 + 18-135mm"
+title: "Low Light Gym Filming — Sony A6700 + 18-135mm"
 date: 2026-01-04
-categories: [Video, Documentation]
-tags: [Sony A6700, Low Light, Technical Reference]
+categories: [Video, Journal]
+tags: [Sony A6700, Sony 18-135mm, Low Light, Gym Filming]
 description: "Technical reference for filming strength training in low light gym environments. Covers settings, exposure, and common issues."
 image: 
   path: /assets/img/headers/filming.webp
@@ -913,7 +1075,7 @@ image:
 title: "Strength Snapshot — January 2026"
 date: 2026-01-03
 categories: [Training, Journal]
-tags: [Strength, Personal Record, Training Log, Documentation]
+tags: [Strength Training, Training Log, Personal Record]
 description: "A documentary snapshot of where I'm at physically in January 2026 — 78kg, 35 years old, and the strongest I've been."
 image: 
   path: /assets/img/headers/snapshot.webp
@@ -921,6 +1083,20 @@ image:
 ---
 ```
 
+### Practical Guide/Recipe
+```yaml
+---
+title: "Pan-Seared Chicken with Sautéed Vegetables — A 7-Day Rotation"
+date: 2026-01-06
+categories: [Nutrition, Journal]
+tags: [Meal Prep, Recipe, High Protein]
+description: "A simple pan-seared chicken breast with a rotating sautéed vegetable side. Seven days, seven vegetables — high protein, nutrient-dense, low carb."
+image: 
+  path: /assets/img/headers/chicken-sides.webp
+  lqip: data:image/webp;base64,...
+---
+```
+
 ---
 
-*Template version 1.0 — January 2026*
+*Template version 2.0 — January 2026*
