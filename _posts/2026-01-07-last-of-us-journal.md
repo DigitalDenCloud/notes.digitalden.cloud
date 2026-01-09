@@ -9,6 +9,9 @@ image:
   lqip: data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBACdASoUABQAPxF8slQsJ6QjKAqpgCIJaQAAImzbhJmg8FYS+hCrwTgA/sJPhwi5+rlqzZ+BLCtaJW0UbUqKUqCEHZ/zfMZFTgWMKQiXuLJ9YilIg3ZCF4qJUOh96OR7rNJddXwRwoCJC/EHSp1khavp3RsBxf4AAA==
 ---
 
+🎧 **Soundtrack for this entry.**
+{% include embed/spotify.html id="285ieonEuLkll3zknYK2TY" compact=1 dark=1 %}
+
 ## The Setup
 
 I hadn't turned on my PS4 since FIFA 20. Five years. It sat there collecting dust while I played the occasional Nintendo Switch game — Zelda, mostly. Classic titles that don't demand much graphically but deliver on nostalgia.
