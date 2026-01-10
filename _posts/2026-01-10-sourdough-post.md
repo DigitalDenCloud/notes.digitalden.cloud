@@ -145,7 +145,7 @@ These were the most relevant changes. They moved in the same direction as the di
 
 ### Eating Approach
 
-Removing ultra-processed foods was part of a broader shift in how I approach food. I rarely eat out now. I cook most of my meals and focus on nutrient-dense, minimally processed ingredients. One example is a [pan-seared chicken with rotating vegetable sides](/posts/2026-01-06-pan-seared-chicken-with-sauteed-vegetables.md/){:target="_blank"} that I eat regularly — high protein, low carb, one pan.
+Removing ultra-processed foods was part of a broader shift in how I approach food. I rarely eat out now. I cook most of my meals and focus on nutrient-dense, minimally processed ingredients. One example is a [pan-seared chicken with rotating vegetable sides](https://notes.digitalden.cloud/posts/pan-seared-chicken-with-sauteed-vegetables.md/){:target="_blank"} that I eat regularly — high protein, low carb, one pan.
 
 That does not mean perfection. I still eat the occasional cake or biscuit. The difference is that most of what I eat now is simple, minimally processed food. I buy bread from local bakeries and avoid ultra-processed sweets and packaged desserts. The aim is not restriction, but consistency.
 
