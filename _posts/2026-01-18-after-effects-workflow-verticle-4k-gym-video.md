@@ -4,9 +4,6 @@ date: 2026-01-18
 categories: [Video, Docuementation]
 tags: [After Effects, Video Editing, Gym Filming, Sony A6700, Vertical Video]
 description: "A baseline After Effects workflow for vertical gym videos. Marker-driven rep counters, cinematic motion, and export settings that survive platform compression. Built for repeatability."
-image: 
-  path: /assets/img/headers/after-effects-workflow.webp
-  lqip: data:image/webp;base64,YOUR_BASE64_STRING
 ---
 
 ## Overview
