@@ -241,27 +241,27 @@ If creatine does nothing measurable, that's a valid finding. The goal is to docu
 
 | Lift | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bench press | 110kg × 3 | — | | | | | | | | | | | |
-| Bent over row | 110kg × 5 | — | | | | | | | | | | | |
-| Shoulder press | 70kg × 3 | — | | | | | | | | | | | |
-| Squat | 130kg × 4 | — | | | | | | | | | | | |
-| Deadlift | 160kg × 3 | — | | | | | | | | | | | |
+| Bench press | 110kg × 3 | — | 110kg × 4 | | | | | | | | | | |
+| Bent over row | 110kg × 5 | — | 110kg × 6 | | | | | | | | | | |
+| Shoulder press | 70kg × 3 | — | 70kg × 4 | | | | | | | | | | |
+| Squat | 130kg × 4 | — | 130kg × 7 | | | | | | | | | | |
+| Deadlift | 160kg × 3 | — | 160kg × 3 | | | | | | | | | | |
 | Weighted pull ups | 40kg × 3 | — | 40kg × 4 | | | | | | | | | | |
 
 ### Secondary Indicators
 
 | Exercise | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |----------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Press ups | 80 | | | | | | | | | | | | |
-| Pull ups | 20 | | | | | | | | | | | | |
-| Dips | 54 | | | | | | | | | | | | |
+| Press ups | 80 | — | 87 | | | | | | | | | | |
+| Pull ups | 20 | — | — | | | | | | | | | | |
+| Dips | 54 | — | — | | | | | | | | | | |
 
 ### Bodyweight & Recovery
 
 | Metric | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |--------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
 | Bodyweight (kg) | 78 | 79.3 | 79 | | | | | | | | | | |
-| Recovery (1-5) | 4 | 3.5 | | | | | | | | | | | |
+| Recovery (1-5) | 4 | 3.5 | 4 | | | | | | | | | | |
 
 ---
 
@@ -298,8 +298,43 @@ Interestingly, two days into maintenance (5g/day), that pump feeling has faded. 
 ---
 
 ### Week 2
-**Creatine phase:** Maintenance (5g/day)  
-**Notes:**
+**Creatine phase:** Maintenance (5g/day)
+
+**Summary:**
+- 5 training sessions completed (back, legs, chest, shoulders/back/deadlift, light arms/rehab)
+- Football Sunday: intense match, lots of running
+- Monday rest day
+- Significant progressions across nearly all tracked lifts
+- Sleep mostly good (one restless night from late screen time)
+- Nutrition consistent—3 meals daily
+- No creatine side effects
+
+**Bodyweight:** 79kg
+
+**Recovery:** 4/5 average
+
+**Progressions:**
+
+| Lift | Baseline | Week 2 | Change |
+|------|----------|--------|--------|
+| Weighted pull-ups | 40kg × 3 | 40kg × 4 | +1 rep |
+| Squat | 130kg × 4 | 130kg × 7 | +3 reps |
+| Bench press | 110kg × 3 | 110kg × 4 | +1 rep |
+| Shoulder press | 70kg × 3 | 70kg × 4 | +1 rep |
+| Bent over row | 110kg × 5 | 110kg × 6 | +1 rep |
+| Deadlift | 160kg × 3 | 160kg × 3 | No change |
+| Press-ups | 80 | 87 | +7 reps |
+
+**Observations:**
+- Deadlift held at baseline but 190kg attempt failed (previously hit in Week 0). Likely due to squatting 48 hours prior—hamstrings still sore. Also adjusting technique: shifting from back-dominant pull to more leg/glute drive off the floor. Expect strength to rebuild as new pattern becomes automatic.
+- 48 hours not enough recovery between heavy squats and heavy deadlifts—schedule accordingly.
+- Pump/fullness feeling inconsistent: returned mid-week, faded again by end of week.
+- One restless night (Thursday) linked to late screen time before bed.
+- Shoulder press 75kg × 1 achieved—nearly bodyweight overhead.
+- Press-ups tested before bench (87 reps)—may have fatigued pressing strength.
+
+**Reflection:**
+Week 2 delivered more progression than expected. Every primary lift except deadlift improved, and press-ups jumped significantly. Hard to say how much is creatine versus recovered baseline week fatigue, but the trend is positive. Deadlift needs more attention—technique change is the right call long-term but means accepting a temporary plateau. Next week: prioritise spacing between squats and deadlifts, and retest bodyweight pull-ups if the opportunity comes up.
 
 ---
 
