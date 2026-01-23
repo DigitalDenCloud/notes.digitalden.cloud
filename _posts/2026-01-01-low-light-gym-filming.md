@@ -1,7 +1,7 @@
 ---
 title: "Low Light Gym Filming - Sony A6700 + 18-135mm"
 date: 2026-01-04
-categories: [Video, Journal]
+categories: [Video, Settings]
 tags: [Sony A6700, Sony 18-135mm, Low Light, Gym Filming, Technical Reference]
 description: "Technical reference for filming strength training in low light gym environments. Covers camera settings, exposure management, focal length selection, and common issues."
 image: 

@@ -1,7 +1,7 @@
 ---
 title: "Pan-Seared Chicken with Sautéed Vegetables — A 7-Day Rotation"
 date: 2026-01-06
-categories: [Nutrition, Journal]
+categories: [Nutrition, Recipe]
 tags: [Meal Prep, Recipe, High Protein]
 description: "A simple pan-seared chicken breast with a rotating sautéed vegetable side. Seven days, seven vegetables — high protein, nutrient-dense, low carb. One pan, minimal prep."
 image: 

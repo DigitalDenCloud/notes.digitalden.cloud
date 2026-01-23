@@ -1,7 +1,7 @@
 ---
 title: "Why I Don't Eat Supermarket Bread — A Year Without Ultra-Processed Food"
 date: 2026-01-10
-categories: [Nutrition, Journal]
+categories: [Nutrition, Research]
 tags: [Sourdough, Ultra-Processed Food, Nutrition, Gut Health, Bread]
 description: "A year without supermarket bread. Why I switched to sourdough, what ingredient labels revealed about commercial bread, and how freezing fits into my daily routine."
 image: 

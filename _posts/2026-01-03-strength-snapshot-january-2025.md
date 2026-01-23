@@ -1,7 +1,7 @@
 ---
 title: "Strength Snapshot — January 2026"
 date: 2026-01-03
-categories: [Training, Journal]
+categories: [Training, Log]
 tags: [Strength, Personal Record, Training Log, Documentation]
 description: "A documentary snapshot of where I'm at physically in January 2026 — 78kg, 35 years old, and the strongest I've been. Full strength numbers, daily training journal, and why I'm documenting this now."
 image: 

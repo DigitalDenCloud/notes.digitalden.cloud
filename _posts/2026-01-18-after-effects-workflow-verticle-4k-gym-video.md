@@ -1,7 +1,7 @@
 ---
 title: "After Effects Workflow — Vertical 4K Gym Videos"
 date: 2026-01-18
-categories: [Video, Docuementation]
+categories: [Video, Settings]
 tags: [After Effects, Video Editing, Gym Filming, Sony A6700, Vertical Video]
 description: "A baseline After Effects workflow for vertical gym videos. Marker-driven rep counters, cinematic motion, and export settings that survive platform compression. Built for repeatability."
 ---
@@ -48,8 +48,6 @@ For simple edits (scale animation, markers, a rep counter) working directly on t
 - Complex effects stacked on a single clip (colour grading + stabilisation + masks)
 - Reusing the same styled clip across multiple videos
 - Timeline getting overwhelming with layers
-
-To precompose: select the layer, press `Cmd + Shift + C` (Mac) or `Ctrl + Shift + C` (Windows), and name it clearly — `Squat_Clip_01`, `Deadlift_Clip_02`.
 
 For this workflow, I keep clips as direct layers unless the timeline gets messy.
 
