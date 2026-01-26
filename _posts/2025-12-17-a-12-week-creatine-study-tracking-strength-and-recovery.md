@@ -18,7 +18,7 @@ This post is a living document. It captures the protocol, baseline measurements,
 
 I'm not expecting dramatic changes. Over the past year, improvements in diet, consistency, and recovery have already produced significant strength gains at a stable bodyweight of 78kg. This is the strongest I've been. The question is whether creatine supports continued progression when the fundamentals are already in place.
 
-> **What this isn't**  
+> **Scope**  
 > This is not a supplement endorsement. Not a transformation narrative. Not an attempt to optimise every variable. It's a personal log tracking whether creatine makes a measurable difference under real-world conditions. Life continues—recovery sessions, travel days, Sunday football. When something deviates from routine, I note it. Otherwise, I train, eat, sleep, and document what happens.
 {: .prompt-info }
 
@@ -104,7 +104,7 @@ Baseline testing completed across a training week prior to starting creatine. Fu
 | Standing shoulder press | 70kg × 3 | Within 3–6 rep range. Third rep was a grind. |
 | Squat | 130kg × 4 | Within 3–5 rep range |
 | Deadlift | 160kg × 3 | Within 2–5 rep range |
-| Weighted pull ups | 40kg x 3 | Within 4–6 rep range |
+| Weighted pull ups | 40kg × 3 | Within 4–6 rep range |
 
 ### Secondary Performance Indicators
 
@@ -206,7 +206,6 @@ These factors reflect my normal routine. Nothing was changed for the study.
 ### Other Supplements
 
 These are part of my existing routine and unchanged during the study:
-
 - Magnesium
 - Vitamin D
 - Omega 3
@@ -241,27 +240,27 @@ If creatine does nothing measurable, that's a valid finding. The goal is to docu
 
 | Lift | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bench press | 110kg × 3 | — | 110kg × 4 | | | | | | | | | | |
-| Bent over row | 110kg × 5 | — | 110kg × 6 | | | | | | | | | | |
-| Shoulder press | 70kg × 3 | — | 70kg × 4 | | | | | | | | | | |
-| Squat | 130kg × 4 | — | 130kg × 7 | | | | | | | | | | |
-| Deadlift | 160kg × 3 | — | 160kg × 3 | | | | | | | | | | |
-| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | | | | | | | | | | |
+| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | | | | | | | | | |
+| Bent over row | 110kg × 5 | — | 110kg × 6 | — | | | | | | | | | |
+| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | | | | | | | | | |
+| Squat | 130kg × 4 | — | 130kg × 7 | — | | | | | | | | | |
+| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | | | | | | | | | |
+| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | | | | | | | | | |
 
 ### Secondary Indicators
 
 | Exercise | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |----------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Press ups | 80 | — | 87 | | | | | | | | | | |
-| Pull ups | 20 | — | — | | | | | | | | | | |
-| Dips | 54 | — | — | | | | | | | | | | |
+| Press ups | 80 | — | 87 | — | | | | | | | | | |
+| Pull ups | 20 | — | — | — | | | | | | | | | |
+| Dips | 54 | — | — | — | | | | | | | | | |
 
 ### Bodyweight & Recovery
 
 | Metric | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |--------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bodyweight (kg) | 78 | 79.3 | 79 | | | | | | | | | | |
-| Recovery (1-5) | 4 | 3.5 | 4 | | | | | | | | | | |
+| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | | | | | | | | | |
+| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | | | | | | | | | |
 
 ---
 
@@ -289,8 +288,7 @@ If creatine does nothing measurable, that's a valid finding. The goal is to docu
 - Spinach on empty stomach post-training causes discomfort—fine later in day. To be tested further.
 - Monday rest day followed by sauna (20 mins), swim (10 laps), steam room (10 mins) for recovery before starting Week 2.
 
-**Reflection:** 
-   
+**Reflection:**
 Going into Week 1, I wasn't sure what to expect from loading. Strength and endurance felt no different—if anything, I was weaker due to residual fatigue from baseline week. But the pump and fullness were noticeable by day 5-6. That's the first sign creatine is doing something, even if performance hasn't caught up yet.
 
 Interestingly, two days into maintenance (5g/day), that pump feeling has faded. Could be the drop from 20g to 5g, could be coincidence, could be placebo wearing off. Worth watching over the coming weeks to see if it returns or stabilises.
@@ -339,61 +337,100 @@ Week 2 delivered more progression than expected. Every primary lift except deadl
 ---
 
 ### Week 3
-**Creatine phase:** Maintenance  
-**Notes:**
+**Creatine phase:** Maintenance (5g/day)
+
+**Summary:**
+- 6 training sessions completed (chest/triceps, back, easy chest/back, legs, shoulders, arms/chest, back)
+- Football Sunday: 70 mins, less intense than previous week, picked up minor groin niggle (recurring issue)
+- Rough start to week—recovery 3/5 Monday and Tuesday after intense football previous Sunday
+- Midweek improved after eating significantly more on Thursday
+- 120kg bench × 1 achieved Saturday (failed in Week 2)
+- 190kg deadlift × 1 achieved Thursday (technique broke down at max effort)
+- No other tracked lift progressions this week
+- Travelling to Montenegro Tuesday for rest week
+
+**Bodyweight:** 78.7kg (unchanged from previous Tuesday, down from 79kg Week 2)
+
+**Recovery:** 3.5/5 average (ranged from 2-4 across the week)
+
+**Observations:**
+- Football fatigue pattern confirmed: Sunday match = Monday/Tuesday compromised. Worse when match is intense or against younger players.
+- Eating more (Thursday) led to noticeably better energy Friday. Usual 3 meals may not be enough on heavy training weeks.
+- 190kg deadlift achieved Thursday but technique broke down at max effort. Submaximal technique improving.
+- Post-meal tiredness after legs noted again—likely parasympathetic response, not food-related.
+- Groin niggle returned during Sunday match—ongoing issue, not new.
+- 30kg dumbbell shoulder press felt lighter than previous.
+- Mindset shift: realised don't need to push every session, just train normally.
+
+**Creatine observations:**
+- No side effects
+- No pump/fullness this week
+- Doesn't feel like it's doing much currently
+
+**Reflection:**
+Week 3 was inconsistent. Started flat, recovered midweek, finished tired. The 120kg bench is a win—failed it two weeks ago, got it clean this week. But overall energy and recovery were lower than Week 2. The pattern is clear: football plus high training volume plus 10k daily steps is a lot. Heading to Montenegro for a rest week. No serious training planned—maybe 1-2 light sessions. Will continue creatine at 5g daily. Goal is to come back Week 5 fresh and see if the break helps.
 
 ---
 
 ### Week 4
-**Creatine phase:** Maintenance  
-**Notes:**
+**Creatine phase:** Maintenance (5g/day)
+
+**Notes:** Rest week — travelling in Montenegro. No gym access. Continued creatine at 5g daily. Light walking only.
 
 ---
 
 ### Week 5
 **Creatine phase:** Maintenance  
+
 **Notes:**
 
 ---
 
 ### Week 6
 **Creatine phase:** Maintenance  
+
 **Notes:**
 
 ---
 
 ### Week 7
 **Creatine phase:** Maintenance  
+
 **Notes:**
 
 ---
 
 ### Week 8
 **Creatine phase:** Maintenance  
+
 **Notes:**
 
 ---
 
 ### Week 9
 **Creatine phase:** Maintenance  
+
 **Notes:**
 
 ---
 
 ### Week 10
 **Creatine phase:** Maintenance  
+
 **Notes:**
 
 ---
 
 ### Week 11
 **Creatine phase:** Maintenance  
+
 **Notes:**
 
 ---
 
 ### Week 12
 **Creatine phase:** Maintenance  
+
 **Notes:**
 
 ---
