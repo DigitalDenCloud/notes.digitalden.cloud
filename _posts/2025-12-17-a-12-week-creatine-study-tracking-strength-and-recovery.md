@@ -240,27 +240,27 @@ If creatine does nothing measurable, that's a valid finding. The goal is to docu
 
 | Lift | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | | | | | | | | | |
-| Bent over row | 110kg × 5 | — | 110kg × 6 | — | | | | | | | | | |
-| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | | | | | | | | | |
-| Squat | 130kg × 4 | — | 130kg × 7 | — | | | | | | | | | |
-| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | | | | | | | | | |
-| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | | | | | | | | | |
+| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | — | 100kg × 10 | | | | | | | |
+| Bent over row | 110kg × 5 | — | 110kg × 6 | — | — | — | | | | | | | |
+| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | — | — | | | | | | | |
+| Squat | 130kg × 4 | — | 130kg × 7 | — | — | — | | | | | | | |
+| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | — | 170kg × 4 | | | | | | | |
+| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | — | — | | | | | | | |
 
 ### Secondary Indicators
 
 | Exercise | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |----------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Press ups | 80 | — | 87 | — | | | | | | | | | |
-| Pull ups | 20 | — | — | — | | | | | | | | | |
-| Dips | 54 | — | — | — | | | | | | | | | |
+| Press ups | 80 | — | 87 | — | — | — | | | | | | | |
+| Pull ups | 20 | — | — | — | — | — | | | | | | | |
+| Dips | 54 | — | — | — | — | — | | | | | | | |
 
 ### Bodyweight & Recovery
 
 | Metric | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |--------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | | | | | | | | | |
-| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | | | | | | | | | |
+| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | 78.7 | 78.7 | | | | | | | |
+| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | 4 | 4.5 | | | | | | | |
 
 ---
 
@@ -375,14 +375,68 @@ Week 3 was inconsistent. Started flat, recovered midweek, finished tired. The 12
 ### Week 4
 **Creatine phase:** Maintenance (5g/day)
 
-**Notes:** Rest week — travelling in Montenegro. No gym access. Continued creatine at 5g daily. Light walking only.
+**Summary:**
+- Rest week — travelling in Montenegro
+- 4 training sessions (chest/back, back, shoulders/arms, full body with Saša)
+- No football (away)
+- Trained at Herkul Gym & Fitness — old-school bodybuilding gym with steel equipment and early morning techno
+- Trained with owner Saša Rakočević, 63-year-old ex-bodybuilder and senior Mr Olympia competitor. Different training style: slow controlled reps, 10-second pauses, cable machines, bodybuilder approach. Recorded the session for him.
+- Sunday: sledgehammer work smashing rocks in Cetinje mountains — no gym, but a solid workout
+- Nutrition: different from usual — 1 meal at home (5 eggs), rest eating out, more snacking (cakes, chocolate), still prioritised protein when eating out
+- Sleep: consistent 8 hours with natural wake-ups, except one 5-hour night
+
+**Bodyweight:** 78.7kg (unchanged from Week 3)
+
+**Recovery:** 4/5 average
+
+**Observations:**
+- Shoulder pain increased this week — likely aggravated by 50kg incline dumbbell press on Tuesday. This weight has caused issues before. Original injury was from incline pressing years ago. Worth avoiding heavy incline dumbbells going forward.
+- Pump/fullness returned — noticed after weights sessions and especially after sledgehammer work. Could be creatine stores now saturated, higher carb intake, or lower training intensity allowing better blood flow.
+- Different training style with Saša was refreshing — slower reps, more machines, less compound. Good variation.
+
+**Creatine observations:**
+- No side effects
+- 5g daily maintained throughout trip
+- Pump feeling back after being absent in Week 3
+
+**Reflection:**
+Week 4 was a proper rest week but not a complete break. Four lighter sessions, new gym, new training partner, different country. The body got a break from high-intensity compound lifting and football. Shoulder flared up from heavy incline — a reminder to respect that limitation. The pump returning is encouraging, whether it's creatine, carbs, or reduced fatigue.
 
 ---
 
 ### Week 5
-**Creatine phase:** Maintenance  
+**Creatine phase:** Maintenance (5g/day)
 
-**Notes:**
+**Summary:**
+- 6 training sessions (back/biceps with Saša in Montenegro, chest, legs, legs with Doktor, chest/shoulders, back)
+- Football cancelled Sunday (waterlogged pitches) — trained back instead
+- Back in London Wednesday, resumed normal routine
+- Back-to-back leg days Thursday/Friday — first time doing this
+- 200kg deadlift attempt: lifted it but technique broke down, didn't lock out. Tiny tweak at top of back, cleared quickly. Progress — previously couldn't lift 200kg at all.
+- 100kg bench × 10 achieved Saturday — first time since November, was only getting 3 reps back then
+- Training more freely now — less rigid structure, training with different partners
+
+**Bodyweight:** 78.7kg (unchanged for third consecutive week)
+
+**Recovery:** 4.5/5 average
+
+**Observations:**
+- Shoulder pain from Week 4 has settled — incline rest helped
+- Bench showing two patterns: rep work improving (100kg × 10), but heavy singles still stuck (130kg attempt failed)
+- Deadlift 160kg × 2 on Thursday, then 170kg × 4 on Friday. 200kg attempt showed progress despite not locking out.
+- Technique note: at max weights (200kg), tendency to drive with back not legs. Same pattern as before — needs continued focus.
+- Weight stable at 78.7kg for three weeks despite variable diet in Montenegro. Training volume and 10k steps maintained throughout.
+- Back to 3 meals, greens, spinach — nutrition normalised.
+- Training with different partners (Saša, Doktor) making sessions more enjoyable.
+- Sleep consistent ~8 hours, waking naturally.
+
+**Creatine observations:**
+- No side effects
+- 5g daily maintained
+- No pump feeling this week
+
+**Reflection:**
+Week 5 marked the return to London and normal routine. Energy and recovery felt good — 4.5/5 is the highest weekly score so far. The 200kg deadlift attempt was a milestone even without the lockout. The 100kg × 10 bench is a clear win — proof that strength endurance is building even if max singles aren't moving yet. Back-to-back leg days were tough but manageable. The shift to training more freely — less rigid structure, more training partners — feels sustainable. Football cancelled gave an extra training day. Week 6 is the halfway testing week.
 
 ---
 
