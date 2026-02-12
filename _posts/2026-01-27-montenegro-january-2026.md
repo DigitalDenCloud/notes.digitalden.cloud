@@ -8,14 +8,13 @@ description: "A week in Montenegro with the A6700. Mountains, coast, snow, and r
 
 ## Introduction
 
-I was originally considering Bodrum, my usual destination when I want to get away from London. Sun, sea, good food. However, around the time I was planning to go, I had a dream about Luka, my primary school friend. So I messaged him and he said he was in Montenegro. I thought about it for a week before deciding to go see him and see a new country.
+I was originally considering Bodrum, my usual destination when I want to get away from London. Sun, sea, good food. However, around the time I was planning to go, I had a dream about Luka, my primary school friend. So I messaged him and he said he was in Montenegro. I thought about it for a week before deciding to go see him and explore a new country.
 
-Found a cheap Ryanair flight for £15 and flew out. Picked up a Jeep Avenger from Sixt at the terminal. Bright yellow. Stood out. Mickey Mouse car but it is what it is.
+Found a cheap Ryanair flight for £15 and flew out. Picked up a Jeep Avenger from Sixt at the terminal. Bright yellow. Stood out everywhere I went. Ridiculous, Mickey Mouse car, but it got the job done.
 
-Luka's from here and staying in Cetinje at the moment, so I'm with him for the week. Cetinje is about 30 to 40 minutes from the coast, up in the mountains. Good base for exploring both directions.
+Luka is from here and staying in Cetinje at the moment with his dad, so I'm with them for the week. Cetinje is about 30 to 40 minutes from the coast, up in the mountains. Good base for exploring both directions.
 
-Brought the A6700 and the 18-135mm kit lens. The plan: spend time with Luka, drive around, see the country, eat well, shoot where I see good things, find a local gym and train, and find good coffee. I'd heard good things about the Balkans. A friend highly recommended Serbia. Let's go.
-
+Brought the A6700 and the 18-135mm kit lens. The plan: spend time with Luka, drive around, see new things, eat well, shoot where I see something worth shooting, find a local gym and train, find good coffee, and just enjoy life. I'd heard good things about the Balkans. A friend highly recommended Serbia. Let's go.
 ---
 
 ## Day One — Wednesday 29 January
