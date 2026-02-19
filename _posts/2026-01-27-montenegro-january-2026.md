@@ -4,6 +4,9 @@ date: 2026-01-27
 categories: [Travel, Journal]
 tags: [Montenegro, Photography, Sony A6700, Travel]
 description: "A week in Montenegro with the A6700. Mountains, coast, snow, and rain."
+image: 
+  path: https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-11.jpg
+  lqip: data:image/webp;base64,
 ---
 
 ## Introduction
@@ -15,6 +18,14 @@ Found a cheap Ryanair flight for £15 and flew out. Picked up a Jeep Avenger fro
 Luka is from here and staying in Cetinje at the moment with his dad, so I'm with them for the week. Cetinje is about 30 to 40 minutes from the coast, up in the mountains. Good base for exploring both directions.
 
 Brought the A6700 and the 18-135mm kit lens. The plan: spend time with Luka, drive around, see new things, eat well, shoot where I see something worth shooting, find a local gym and train, find good coffee, and just enjoy life. I'd heard good things about the Balkans. A friend highly recommended Serbia. Let's go.
+
+For all photos from this trip, check out the [full gallery](/gallery/montenegro-january-2026/).
+
+{% include post-gallery.html
+  cdn="https://photos.digitalden.cloud/gallery/montenegro-2026"
+  photos="montenegro-gallery-1.jpg|Caption,montenegro-gallery-2.jpg|Caption,montenegro-gallery-3.jpg|Caption"
+%}
+
 ---
 
 ## Day One — Wednesday 29 January

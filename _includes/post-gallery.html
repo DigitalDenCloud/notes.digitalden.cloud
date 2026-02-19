@@ -1,0 +1,122 @@
+{% comment %}
+  Inline photo gallery for blog posts.
+  
+  Usage in a post:
+  
+  {% include post-gallery.html
+    cdn="https://photos.digitalden.cloud/gallery/montenegro-2026"
+    album_url="/gallery/montenegro-january-2026/"
+    photos="montenegro-gallery-1.jpg|Caption,montenegro-gallery-2.jpg|Caption"
+  %}
+{% endcomment %}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css">
+
+<style>
+  .post-gallery {
+    columns: 3;
+    column-gap: 8px;
+    margin: 2rem 0;
+  }
+  .post-gallery .gallery-item {
+    break-inside: avoid;
+    margin-bottom: 8px;
+    border-radius: 6px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+  }
+  .post-gallery .gallery-item:hover {
+    opacity: 0.85;
+  }
+  .post-gallery .gallery-item img {
+    width: 100%;
+    display: block;
+    pointer-events: none;
+  }
+  .post-gallery-link {
+    display: block;
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 0.95rem;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+  }
+  .post-gallery-link:hover {
+    opacity: 1;
+  }
+  @media (max-width: 576px) {
+    .post-gallery { columns: 2; column-gap: 6px; }
+    .post-gallery .gallery-item { margin-bottom: 6px; }
+  }
+  /* Prevent Chirpy from wrapping these images */
+  .post-gallery .gallery-item a.popup,
+  .post-gallery .gallery-item a.img-link {
+    display: contents !important;
+    pointer-events: none !important;
+  }
+</style>
+
+{% assign photo_list = include.photos | split: ',' %}
+{% assign gallery_id = include.cdn | slugify %}
+
+<div class="post-gallery" id="post-gallery-{{ gallery_id }}">
+  {% for photo_entry in photo_list %}
+    {% assign parts = photo_entry | split: '|' %}
+    {% assign filename = parts[0] | strip %}
+    {% assign caption = parts[1] | strip %}
+    <div class="gallery-item"
+         data-full="{{ include.cdn }}/full/{{ filename }}"
+         data-caption="{{ caption }}">
+      <img
+        src="{{ include.cdn }}/thumbs/{{ filename }}"
+        alt="{{ caption | default: 'Photo' }}"
+        loading="lazy"
+      >
+    </div>
+  {% endfor %}
+</div>
+
+{% if include.album_url %}
+  <a href="{{ include.album_url }}" class="post-gallery-link">
+    Browse all photos from this trip →
+  </a>
+{% endif %}
+
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+<script>
+  (function() {
+    var container = document.getElementById('post-gallery-{{ gallery_id }}');
+    if (!container) return;
+
+    var items = container.querySelectorAll('.gallery-item');
+    var galleryData = [];
+
+    items.forEach(function(item, i) {
+      galleryData.push({
+        src: item.getAttribute('data-full'),
+        type: 'image'
+      });
+
+      item.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        Fancybox.show(galleryData, {
+          startIndex: i,
+          Toolbar: {
+            display: {
+              left: [],
+              middle: [],
+              right: ["close"],
+            },
+          },
+          Thumbs: false,
+          Slideshow: false,
+          Images: {
+            zoom: false,
+          },
+        });
+      });
+    });
+  })();
+</script>

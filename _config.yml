@@ -146,6 +146,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  gallery:
+    output: true
+    sort_by: date
 
 defaults:
   - scope:
@@ -168,6 +171,12 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: ""
+      type: gallery
+    values:
+      layout: gallery-album
+      permalink: /gallery/:title/
 
 sass:
   style: compressed

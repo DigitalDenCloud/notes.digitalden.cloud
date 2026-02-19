@@ -135,7 +135,6 @@ Baseline testing completed across a training week prior to starting creatine. Fu
 ---
 
 ## Why These Rep Ranges
-
 Rep ranges are lift-specific rather than standardised. Each reflects the movement's demands:
 
 **Lower body (squats, deadlifts)** — Lower rep ranges. These lifts impose significant systemic fatigue. Heavier loading with fewer reps reduces fatigue accumulation and technical breakdown.
@@ -240,27 +239,27 @@ If creatine does nothing measurable, that's a valid finding. The goal is to docu
 
 | Lift | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | — | 100kg × 10 | | | | | | | |
-| Bent over row | 110kg × 5 | — | 110kg × 6 | — | — | — | | | | | | | |
-| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | — | — | | | | | | | |
-| Squat | 130kg × 4 | — | 130kg × 7 | — | — | — | | | | | | | |
-| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | — | 170kg × 4 | | | | | | | |
-| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | — | — | | | | | | | |
+| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | — | 100kg × 10 | 100kg × 6 | | | | | | |
+| Bent over row | 110kg × 5 | — | 110kg × 6 | — | — | — | 120kg × 4 | | | | | | |
+| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | — | — | 70kg × 2 | | | | | | |
+| Squat | 130kg × 4 | — | 130kg × 7 | — | — | — | 120kg × 6 | | | | | | |
+| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | — | 170kg × 4 | 160kg × 6 | | | | | | |
+| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | — | — | — | | | | | | |
 
 ### Secondary Indicators
 
 | Exercise | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |----------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Press ups | 80 | — | 87 | — | — | — | | | | | | | |
-| Pull ups | 20 | — | — | — | — | — | | | | | | | |
-| Dips | 54 | — | — | — | — | — | | | | | | | |
+| Press ups | 80 | — | 87 | — | — | — | 75 | | | | | | |
+| Pull ups | 20 | — | — | — | — | — | 19 | | | | | | |
+| Dips | 54 | — | — | — | — | — | 45 | | | | | | |
 
 ### Bodyweight & Recovery
 
 | Metric | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |--------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | 78.7 | 78.7 | | | | | | | |
-| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | 4 | 4.5 | | | | | | | |
+| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | 78.7 | 78.7 | 79.6 | | | | | | |
+| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | 4 | 4.5 | 3.5 | | | | | | |
 
 ---
 
@@ -441,9 +440,48 @@ Week 5 marked the return to London and normal routine. Energy and recovery felt 
 ---
 
 ### Week 6
-**Creatine phase:** Maintenance  
+**Creatine phase:** Maintenance (5g/day)
 
-**Notes:**
+**Summary:**
+- 5 training sessions (back, legs, chest, shoulders, arms)
+- No football (still cancelled)
+- Originally planned as halfway testing week — became a normal training week due to fatigue
+- Feeling tired throughout despite good sleep and nutrition
+- Some tracked lifts tested, others skipped or not pushed to max
+
+**Bodyweight:** 79.6kg (up from 78.7kg — likely delayed effect from Montenegro diet)
+
+**Recovery:** 3.5/5 average (energy felt available but not translating to gym performance)
+
+**Tracked lifts tested:**
+
+| Lift | Baseline (W0) | Best So Far | Week 6 | Notes |
+|------|---------------|-------------|--------|-------|
+| Pull-ups | 20 | — | 19 | To failure, slight drop |
+| Bent over row | 110kg × 5 | 110kg × 6 (W2) | 120kg × 4 | New weight PR |
+| Deadlift | 160kg × 3 | 170kg × 4 (W5) | 160kg × 6 | Rep PR at baseline weight |
+| Dips | 54 | — | 45 | Down from baseline |
+| Press-ups | 80 | 87 (W2) | 75 | Down from baseline and best |
+| Shoulder press | 70kg × 3 | 70kg × 4 (W2) | 70kg × 2 | Didn't push for more |
+| Bench press | 110kg × 3 | 110kg × 4 (W2) | 100kg × 6 | Didn't attempt 110kg |
+| Squat | 130kg × 4 | 130kg × 7 (W2) | 120kg × 6 | Didn't attempt 130kg |
+| Weighted pull-ups | 40kg × 3 | 40kg × 4 (W2) | — | Not tested at comparable weight |
+
+**Observations:**
+- Tiredness throughout the week despite good sleep, nutrition, and low stress. Possible overtraining.
+- Energy felt present but didn't translate to performance when pushing heavy.
+- Some lifts down from baseline (dips, press-ups) — likely fatigue, not regression.
+- Bodyweight spiked to 79.6kg — highest of the study so far. Possibly water retention from increased carbs in Montenegro catching up.
+- Not playing football as much recently — less conditioning but also less recovery demand.
+- Pull-ups baseline comparison note: haven't trained max pull-ups to failure since Week 0. The 19 vs 20 isn't necessarily regression — just a snapshot under different conditions. Same applies to all tracked lifts — natural training progression, fatigue levels, and testing conditions all play a role.
+
+**Creatine observations:**
+- No side effects
+- 5g daily maintained
+- No pump feeling this week
+
+**Reflection:**
+Week 6 was meant to be the halfway testing week but the body wasn't cooperating. Instead of forcing PRs while fatigued, I treated it as a normal training week and logged what happened honestly. Some lifts showed progress (120kg row, 160kg × 6 deadlift), others dropped (dips, press-ups, shoulder press). The tiredness is hard to explain — sleep, nutrition, stress all fine. Possibly accumulated fatigue from back-to-back training weeks after Montenegro. Full retest saved for Week 12 when conditions are better. Next week: train normally, don't chase numbers, let the body recover.
 
 ---
 
@@ -490,7 +528,6 @@ Week 5 marked the return to London and normal routine. Energy and recovery felt 
 ---
 
 ## Final Summary
-
 *To be completed at the end of the study.*
 
 ### Total Changes (Week 0 → Week 12)
@@ -511,7 +548,6 @@ Week 5 marked the return to London and normal routine. Energy and recovery felt 
 ---
 
 ## Conclusion
-
 *To be written at the end of the 12 week study.*
 
 ---
