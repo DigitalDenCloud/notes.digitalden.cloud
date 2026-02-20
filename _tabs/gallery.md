@@ -1,6 +1,6 @@
 ---
 layout: gallery
 icon: fas fa-camera
-order: 5
+order: 4
 title: Gallery
 ---

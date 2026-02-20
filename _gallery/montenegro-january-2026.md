@@ -13,7 +13,7 @@ cdn_base: https://photos.digitalden.cloud/gallery/montenegro-2026
 cover: montenegro-gallery-11.jpg
 
 photos:
-  - file: montenegro-gallery-1.jpg
+  - file: montenegro-gallery-11.jpg
     caption: ""
   - file: montenegro-gallery-2.jpg
     caption: ""
@@ -33,7 +33,7 @@ photos:
     caption: ""
   - file: montenegro-gallery-10.jpg
     caption: ""
-  - file: montenegro-gallery-11.jpg
+  - file: montenegro-gallery-1.jpg
     caption: ""
   - file: montenegro-gallery-12.jpg
     caption: ""
