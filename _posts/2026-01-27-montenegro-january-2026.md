@@ -69,7 +69,7 @@ After exploring we went to Marenda Steak House. I picked out a dry-aged T-bone. 
 
 Drove back to Cetinje, about an hour. Took the serpentine road. 25 hairpin bends climbing out of the bay. Amazing road, but in the dark and heavy rain I had to go slow. Dangerous conditions going up that mountain. Very narrow too, so when cars came from the other direction I had to be careful.
 
-![Serpentine Road](https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-35.png){:  .w-50 .shadow .rounded-10}
+![Serpentine Road](https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-35.png){:  .w-50 .shadow .rounded-10 .no-popup }
 
 Just before getting home, stopped at a supermarket and saw a fruit I'd never seen before. Quince (dunja). Looked interesting. Asked a worker and he said I should really boil it, but I was peckish and just bit into it raw. Didn't even wash it.
 
@@ -234,15 +234,20 @@ Then drove up to Konoba Čeklin, a mountain cliff viewpoint. Took amazing shots 
 
 Continued down to Dodosi, then drove to Leno's village where he spent summers as a child. Took some great sunset shots. Saw a bunch of cows and Leno's childhood home. It was nice hearing Leno talk about his childhood. He used to come here and spend summers. I wish I had a place like that I could go back to and reminisce. Nice seeing that.
 
+{% include post-gallery.html
+  cdn="https://photos.digitalden.cloud/gallery/montenegro-2026"
+  photos="montenegro-gallery-21.jpg|Caption,montenegro-gallery-48.jpg|Caption,montenegro-gallery-49.jpg|Caption"
+%}
+
 ---
 
 ### Evening — Budva
 
 Drove to Budva for dinner. Walked around the marina coast looking for a good restaurant. I smelt kebab which directed us to Zeytoun, a new Turkish place. Best food I've had in Montenegro. Adana kebab was what i needed. 
 
-Noticed everyone was speaking Turkish and they were friendly. One girl in particular, she was Moroccan and spoke Turkish. Her name was Zeina. They had asked me to leave a Google review so I did. I took a picture to attach to the review with me holding the kebab in my bare hands. I showed her and asked if this would be ok to post. She found it funny and said it would be. However, after checking with her manager, he said no. So I used AI to remove the kebab and posted it without it in my hands. Anyway that broke the ice with me and Zeina. I asked for her phone number and she said she couldn't give it at work. So I asked her to bring a napkin and I wrote mine. This felt good. Getting more confident. Especially I felt like I had making up to do because of the encounter in the afternoon.
+Noticed everyone was speaking Turkish and they were friendly. One girl in particular, she was Moroccan and spoke Turkish. Her name was Zeina. They had asked me to leave a Google review so I did. I took a picture to attach to the review with me holding the kebab in my bare hands. I showed her and asked if this would be ok to post. She found it funny and said it would be. However, after checking with her manager, he said no. So I used AI to remove the kebab and posted it without it in my hands. Anyway that broke the ice with me and Zeina. I asked for her phone number and she said she couldn't give it at work. So I asked her to bring a napkin and I wrote mine. This felt good. Getting more confident.
 
-After dinner, had a stroll around Budva Old Town. Found a coffee shop with single origin Ethiopian beans roasted in Istanbul. Bought some. Lots of Turks around, nice to speak Turkish.
+After dinner, had a stroll around Budva Old Town. Found a coffee shop with single origin Ethiopian beans roasted in Istanbul. Bought some back with me to the UK. Mehh brewed a cup, nothing special.
 
 Drove back to Luka's with Leno.
 
@@ -257,7 +262,7 @@ Got back to Luka's and the three of us stayed up chatting away.
 
 ---
 
-## Day Five — Sunday 2 February
+## Day Five — Sunday 1 February
 
 **Weather:** Cloudy
 
@@ -278,6 +283,8 @@ Learned a lot about exposure and video settings:
 - White rocks were blown out in CiNeTone. S-Log 3 better for flexibility in post
 - In bright conditions, intentionally underexpose to protect highlights. Watch zebras at 100
 
+{% include post-gallery.html cdn="https://photos.digitalden.cloud/gallery/montenegro-2026" photos="montenegro-gallery-50.jpg|Caption,montenegro-gallery-51.jpg|Caption,montenegro-gallery-52.jpg|Caption,montenegro-gallery-53.jpg|Caption,montenegro-gallery-54.jpg|Caption,montenegro-gallery-55.jpg|Caption" %}
+
 ---
 
 ### Late Morning — Cetinje
@@ -290,6 +297,8 @@ On the way back, got stopped by police again for overtaking on a solid white lin
 
 ### Afternoon — Coastal Drive to Ada Bojana
 
+![Coast](https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-56.jpg){: .w-50 .shadow .rounded-10}
+
 Drove down from Cetinje along the coast. Lovely drive. Stopped in Bar and found an interesting Russian cafe. Got pulled over by police again on arrival. This time did nothing wrong. Said hello, they asked if I was a tourist, then waved me on.
 
 ---
@@ -298,13 +307,17 @@ Drove down from Cetinje along the coast. Lovely drive. Stopped in Bar and found 
 
 Arrived at the cabin around 7pm. "Amazing Magick" on the Bojana River. Isolated and freezing in winter, but inside is cosy with two floors and nice vibes. Would be amazing in summer, but has its own charm now.
 
+![Barakudad](https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-58.jpg){: .w-25 .shadow .rounded-10 .left}
+
 Drove back over the bridge to Barakuda Restaurant for dinner. A bit pricey but the food was excellent. Ordered sea bass and the Barakuda platter for 4 (octopus, calamari, prawns, mussels). Our second best meal of the trip. We smashed the platter, was even surprised to see Luka devour it. I joked around with the waiter asking if he could do one more for half price. He said we could talk. Picked up a tres leches to take back to the cabin.
 
 Back at the cabin I had a long chat with Leno about what he needs to do with AWS and how he can get his foot in. I explained one of my recent projects, building a Bedrock agent solution. Walked him through my architecture and how everything connects. It was nice to be able to explain things like this.
 
+{: .clearfix }
+
 ---
 
-## Day Six — Monday 3 February
+## Day Six — Monday 2 February
 
 **Weather:** Cold, around 6°C
 
@@ -314,13 +327,22 @@ Back at the cabin I had a long chat with Leno about what he needs to do with AWS
 
 ### Morning — Ada Bojana
 
+![Cabin](https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-59.jpg){: .w-25 .shadow .rounded-10 .left}
+
 Woke just before 7am for sunrise. Luka woke at the same time. Took photos as the sun came up, although it was behind clouds so focused on water shots, playing with shutter speed. Sat on deck chairs and chatted. Few cats around, one we fed last night and another Luka pointed out had big testicles.
 
 Had coffee with Luka. Cheap Nescafe 3-in-1, garbage I would never normally have. Bit of a coffee snob but the moment was more about just having coffee and not being a snob. Just enjoying the moment.
 
 As the sun rose we discussed swimming. Went for a cold water swim in the Bojana River. First time doing cold water swimming. Always heard people go into shock and drown, and although I'm a strong swimmer I was wary. Air was 6°C so the water was probably around 3 to 4°C. Dip lasted about a minute. Felt the initial cold shock, one gasp, then settled. Current was a bit strong so I was extra careful and swam back quickly. Surprisingly therapeutic. Good dopamine hit, felt alert and alive. Next time I'll be more confident.
 
+{: .clearfix }
+
 After the swim, showered, wrapped up and chilled upstairs in the cabin in my room. Blinds open, could see the river. Really therapeutic and peaceful. That moment will stay in my head.
+
+{% include post-gallery.html
+  cdn="https://photos.digitalden.cloud/gallery/montenegro-2026"
+  photos="montenegro-gallery-23.jpg|Caption,montenegro-gallery-57.jpg|Caption,montenegro-gallery-24.jpg|Caption"
+%}
 
 ---
 
@@ -330,17 +352,22 @@ Drove to Ulcinj Old Town. Roamed around the castle. Deserted, lots of constructi
 
 Found a bakery and had really good burek. Turkish style, Albanian place, probably that Middle Eastern influence.
 
-Then found a coffee shop called Buongiorno. Sat there for 2 hours, had 2 americanos and gossiped away. Really interesting vibe. Place was busy, coffee shop next to it also busy. Found it funny no one seemed to be working on a Monday. Everyone just vibing, good coffee, music, chilling. And smoking. Asked the server why no one was working and he laughed.
+Then found a coffee shop called Buongiorno. Sat there for 2 hours, had 2 americanos and gossiped away. Really interesting vibe. Place was busy, coffee shop next to it also busy. Found it funny no one seemed to be working on a Monday. Everyone just vibing, good coffee, music, chilling. Asked the waiter why no one was working and he laughed.
 
 Saw 2 girls sitting next to us. Asked if they spoke English and they looked like I had insulted their mum. First one gave a dirty look. Then looked away, looked back and gave another dirty look. Then told her friend who turned around and gave a dirty look too. Haha.
 
-Wasn't sure what to do next. Went for a walk then thought it would be a good idea to get a haircut. Albanians generally have good trims. Found a barbershop called Stifflers, hence why I thought of Stifler's mum from American Pie. Got a taper fade, Luka got a low skin fade. He got the better barber and his trim looked better. €25 for both. Luka treated me.
+Wasn't sure what to do next. Went for a walk then thought it would be a good idea to get a trim. Albanians generally have good one. Found a barbershop called Stifflers, hence why I thought of Stifler's mum from American Pie. Got a taper fade, Luka got a low skin fade. He got the better barber and his trim looked better. €25 for both. Luka treated me. Nice one lad.
 
 The barbers recommended a nice doner shop at the top so we went to it. Got a chicken doner. Had a feeling the guy was Turkish so spoke to him and he was. €5 for a large doner and drink. Wow.
 
 Walked back down to the coast and ate it by the beach. Fed a stray cat and then saw a Labrador crossed with something. He humped my leg like my dog Oscar used to.
 
-Such a simple unplanned day. We weren't sure what we were doing and just went with the flow. I liked that. Simple memorable day.
+Such a simple unplanned day. We weren't sure what we were doing and just went with the flow. I liked that. Simple day I'll rememember forever.
+
+{% include post-gallery.html
+  cdn="https://photos.digitalden.cloud/gallery/montenegro-2026"
+  photos="montenegro-gallery-25.jpg|Caption,montenegro-gallery-26.jpg|Caption,montenegro-gallery-27.jpg|Caption"
+%}
 
 ---
 
@@ -364,9 +391,11 @@ On the way back near Luka's house, got stopped by police again. This time checki
 
 Sat down by the fireplace at Luka's. Wood crackling, TV on, winding down. I like these nights where we come back after a long day, fireplace going, just me and Luka talking. Then went to sleep.
 
+![Fireplace](https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-60.jpg){: .w-50 .shadow .rounded-10 }
+
 ---
 
-## Day Seven — Tuesday 4 February
+## Day Seven — Tuesday 3 February
 
 **Weather:** Rainy and gloomy all day. Nice day to leave.
 
@@ -385,6 +414,8 @@ Recorded the session with Saša, got some nice videos of us training. Thanked hi
 Said my goodbyes to Saša, went home, got Luka and we went out for lunch. Had a burger and chips. He had a Montenegrin burger, his came with cheese drenched all over it. Covered in it. Looked like a soup. My nightmare. Meanwhile I was there eating my plain burger, with no sauce.
 
 After lunch we grabbed a coffee. We were sitting outside and I went into the wrong coffee shop and ordered. Then went back home. I showered, got ready and packed. Said my goodbyes, then got in the car. As I drove off I glanced in the rear mirror one last time and saw both of them standing by the door seeing me off. Warm feeling. Peaceful. Time to go.
+
+![Luka's](https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-61.jpg){: .w-50 .shadow .rounded-10 }
 
 ---
 

@@ -1,0 +1,11 @@
+---
+---
+
+@import 'main';
+
+.shimmer {
+  animation: none !important;
+  &::before {
+    display: none !important;
+  }
+}
