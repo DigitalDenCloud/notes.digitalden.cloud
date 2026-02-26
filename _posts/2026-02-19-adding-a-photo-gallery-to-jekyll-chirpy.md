@@ -6,7 +6,8 @@ tags: [Jekyll, Chirpy, Photography, AWS, CloudFront, S3, Sony A6700]
 description: "How I added a full photo gallery system to my Jekyll Chirpy site. S3 and CloudFront for image hosting, custom layouts for album pages, and Fancybox for lightbox viewing. Built for travel photography and designed so anyone with a Chirpy site can replicate it."
 image: 
   path: /assets/img/headers/gallery-chirpy.webp
-  lqip: data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBACdASoUABQAPxF8tVOsJ6SiqAqpgCIJaQAAMWYSZdCtCWeKdpG9AAD+0S5kt2c0N2+mi1WoUqYhNONaUGY2sTqR8MkxdHYFnugrw/1MVxiWKGHj1GUf7PMYTeI8mZbm4VEfCg4ZyIi4iigAAA==
+  lqip: data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAADwBACdASoUABQAPxGAt1WsJ6UjKAgBgCIJZQDOOYxEXmCF0Efbx/6KS2GMcW1/UYAA/tBnunvsv4MJld5p0RK+gXfAbL1INbUP72o9DCxz2VrWnrdFCO6/DcbhO0CoZ8+9/r1GtE79a5tfY71yP8sX/iv4c98TmNfazVHKloCQIvlmxDOFeU15IoClrqk+dZIxh9qS4cd1MnGxPVt9CIIVAmzhMgIapujTZtEgAAA=
+
 ---
 
 ## Why I Built This

@@ -1,9 +1,12 @@
 ---
 title: "Culling 1,668 Photos from Montenegro"
 date: 2026-02-18
-categories: [Photography, Workflow]
+categories: [Photography, Editing]
 tags: [Sony A6700, Lightroom Classic, Photo Culling, AI Assisted Culling, Montenegro, Travel Photography]
 description: "The full culling workflow from 1,668 RAW images down to 467 intentional keeps. AI-assisted first pass, manual review, burst trimming, star ratings, and purpose-based collections."
+image: 
+  path: /assets/img/headers/lightroom-culling-header.webp
+  lqip: data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADQBACdASoUABQAPxGAt1WsKCUjKAgBgCIJZwDO7BEYx9sXIOl2KHl+RrqzNVgTEAD+vJtkn84NxsNBbWQ6ovJuFaCcYqkb+5/moA4VNibyvOFj/PyyCT0ISgWNUw2HHR7i5B4W8Qiug4sznC/P4eaDWr8jECrTkAAAAA==
 ---
 
 When I got back from Montenegro, I had 1,668 images. All RAW from the Sony A6700, stored on my external NVMe SSD inside `Capture_Archive → 2026 → 2026-01 Montenegro → Photo → RAW`.

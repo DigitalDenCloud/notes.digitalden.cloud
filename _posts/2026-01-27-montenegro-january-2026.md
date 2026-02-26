@@ -11,24 +11,19 @@ image:
 
 ## Introduction
 
-I was originally considering Bodrum, my usual destination when I want to get away from London. Sun, sea, good food. However, around the time I was planning to go, I had a dream about Luka, my primary school friend. So I messaged him and he said he was in Montenegro. I thought about it for a week before deciding to go see him and explore a new country.
+I was originally considering Bodrum, my usual destination when I want to get away from London. Sun, sea, good food. However, around the time I was planning to go, I had a dream about Luka, a primary school friend. So I messaged him and he said he was in Montenegro. I thought about it for a week before deciding to go to see him and his home country.
 
-Found a cheap Ryanair flight for £15 and flew out. Picked up a Jeep Avenger from Sixt at the terminal. Bright yellow. Stood out everywhere I went. Ridiculous, Mickey Mouse car, but it got the job done.
+I found a cheap £15 Ryanair flight and flew out. At the terminal, I picked up a Jeep Avenger from Sixt. I thought it was cool until I saw it was yellow. It was petrol, and in hindsight, a diesel would have made more sense. Most of the driving was long motorway stretches and mountain roads, so I ended up going through two full tanks in a week. Note to self: diesel next time.
 
-Luka is from here and staying in Cetinje at the moment with his dad, so I'm with them for the week. Cetinje is about 30 to 40 minutes from the coast, up in the mountains. Good base for exploring both directions.
+So, Luka is from here and staying in Cetinje at the moment with his dad, and I'm with them for the week. Cetinje is about 30 to 40 minutes from the coast, up in the mountains. Good base for exploring both directions.
 
-Brought the A6700 and the 18-135mm kit lens. The plan: spend time with Luka, drive around, see new things, eat well, shoot where I see something worth shooting, find a local gym and train, find good coffee, and just enjoy life. I'd heard good things about the Balkans. A friend highly recommended Serbia. Let's go.
+I also brought the A6700 and the 18-135mm kit lens. The plan: spend time with Luka, drive around, see new things, eat well, shoot where I see something worth shooting, find a local gym and train, find good coffee, and just enjoy life. I'd heard good things about the Balkans. Let's go.
 
-For all photos from this trip, check out the [full gallery](/gallery/montenegro-january-2026/).
-
-{% include post-gallery.html
-  cdn="https://photos.digitalden.cloud/gallery/montenegro-2026"
-  photos="montenegro-gallery-1.jpg|Caption,montenegro-gallery-2.jpg|Caption,montenegro-gallery-3.jpg|Caption"
-%}
+For the best scenic photographs from this trip, check out the [gallery](/gallery/montenegro-january-2026/).
 
 ---
 
-## Day One — Wednesday 29 January
+## Day One — Wednesday 28 January
 
 **Weather:** Overcast, cold, heavy rain later
 
@@ -48,6 +43,11 @@ Set off for Kotor Bay. Put the destination into Google Maps and it took us to a 
 
 Really struggling at this point. Trying to adjust manual camera settings, take pictures, and hold an umbrella all at once. Eventually figured out we needed to get to the Old Town, which was another 45 minutes away.
 
+{% include post-gallery.html
+  cdn="https://photos.digitalden.cloud/gallery/montenegro-2026"
+  photos="montenegro-gallery-1.jpg|Caption,montenegro-gallery-30.jpg|Caption,montenegro-gallery-33.jpg|Caption"
+%}
+
 ---
 
 ### Evening — Kotor Old Town
@@ -58,11 +58,18 @@ Still, the Old Town had good vibes. Empty streets, narrow alleyways, cats everyw
 
 After exploring we went to Marenda Steak House. I picked out a dry-aged T-bone. Great marbling, 600g. Cost €60, which is more expensive than London, but I wanted to treat myself. Good steak. Apparently it's a bit of a mafia and tourist spot, hence the high prices. Worth it anyway.
 
+{% include post-gallery.html
+  cdn="https://photos.digitalden.cloud/gallery/montenegro-2026"
+  photos="montenegro-gallery-34.jpg|Caption,montenegro-gallery-31.jpg|Caption,montenegro-gallery-32.jpg|Caption"
+%}
+
 ---
 
 ### Night — Drive Home
 
 Drove back to Cetinje, about an hour. Took the serpentine road. 25 hairpin bends climbing out of the bay. Amazing road, but in the dark and heavy rain I had to go slow. Dangerous conditions going up that mountain. Very narrow too, so when cars came from the other direction I had to be careful.
+
+![Serpentine Road](https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-35.png){:  .w-50 .shadow .rounded-10}
 
 Just before getting home, stopped at a supermarket and saw a fruit I'd never seen before. Quince (dunja). Looked interesting. Asked a worker and he said I should really boil it, but I was peckish and just bit into it raw. Didn't even wash it.
 
@@ -70,7 +77,7 @@ Got home, went through the day's footage with Luka, did some edits in Lightroom.
 
 ---
 
-## Day Two — Thursday 30 January
+## Day Two — Thursday 29 January
 
 **Weather:** Cold, snowy, icy at altitude
 
@@ -82,7 +89,9 @@ Got home, went through the day's footage with Luka, did some edits in Lightroom.
 
 Started at 357 Bakery for breakfast. This place is turning into my local spot. I love a coffee before the gym, it's my ritual. Staff there are all really nice. It's clear I stand out as people look, but in a nice way.
 
-Then trained at Herkul Gym & Fitness. A proper old-school bodybuilding gym. Steel equipment, techno playing early morning. The owner is Saša Rakočević, 63 years old, ex-bodybuilder and recent competition winner. He let me train for free. Very nice gesture. Loads of machines and equipment I don't have in my gym back home so I was excited to try them all out.
+Then trained at Herkul Gym & Fitness. A proper old-school bodybuilding gym. Steel equipment, techno playing early morning. The owner is Saša Rakočević, 63 years old, ex-bodybuilder and recent competition winner. 
+
+He let me train for free. Very nice gesture. Loads of machines and equipment I don't have in my gym back home so I was excited to try them all out.
 
 Back to Luka's. Whipped him up some eggs and had some homegrown olives. They tasted different to the Turkish olives I usually eat. Those are usually in a brine with more flavour. These ones tasted more natural and organic, less processed. Luka got ready and we went to pick up his friend.
 
@@ -96,6 +105,11 @@ Drove up to the cable car station at the top. More photos. Then on to Horizont B
 
 Last stop was the Njegoš Mausoleum. The road was icy so we parked up and walked the last kilometre. On the way up, a Šarplaninac came down to meet us. Looked like a puppy. He walked with us the whole way, like he was guiding us up the mountain. The museum at the top was closed, but we got as far as we could.
 
+{% include post-gallery.html
+  cdn="https://photos.digitalden.cloud/gallery/montenegro-2026"
+  photos="montenegro-gallery-36.jpg|Caption,montenegro-gallery-37.jpg|Caption,montenegro-gallery-38.jpg|Caption"
+%}
+
 ---
 
 ### Evening — Cetinje
@@ -104,7 +118,7 @@ Drove back to Cetinje as it got dark. Grabbed pizza, €5, then went to Leno's p
 
 ---
 
-## Day Three — Friday 31 January
+## Day Three — Friday 30 January
 
 **Weather:** Foggy at altitude, rain later in the evening
 
@@ -114,9 +128,15 @@ Drove back to Cetinje as it got dark. Grabbed pizza, €5, then went to Leno's p
 
 ### Morning — Cetinje
 
-Started at 357 Bakery again. Then trained at Herkul Gym. Owner Saša let me train for free again. Lovely man. We talked despite the language barrier. He showed me his three Olympia medals, I asked to take a photo of them and he insisted I wear them. Then he took me to the main floor and took a photo of me wearing them. I asked for a photo together too. Sweet guy.
+Started at 357 Bakery again.
+
+![Herkul Gym](https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-35.jpg){:  .w-25 .shadow .rounded-10 .left}
+
+ Then trained at Herkul Gym. Owner Saša let me train for free again. Lovely man. We talked despite the language barrier. He showed me his three Olympia medals, I asked to take a photo of them and he insisted I wear them. Then he took me to the main floor and took a photo of me wearing them. I asked for a photo together too. Sweet guy.
 
 He's still competing at 63. Potentially on steroids at that age which is concerning. However, he's happy and that's what matters. I've also come to realise training can become an addiction and unhealthy when it's all you know. Even I overtrain at times and find it hard to take rest days even when my body needs it. Perhaps we're all just chasing the endorphins.
+
+{: .clearfix }
 
 Back to Luka's place, got ready. Nice touch is that Luka puts a portable heater in the shower so it's cosy in there. Small little things like that I appreciate. Then headed out with Luka and his friend Leno.
 
@@ -135,15 +155,24 @@ Very quiet and empty when we visited. Off-season apparently, but it gets very bu
 
 Took some great shots in the fog. Went into the monastery. They had chapel rooms inside, one was particularly interesting with paintings drawn on the walls including one of Lazarus. A worker there explained some of the history. Went up to the top, took more pics, then headed back down.
 
-Drove to Nikšić and went to Nutricia for a late lunch. Had the beef fillet but didn't love it. Food was greasy. Found out about kačamak though, the cornmeal dish similar to what my dad makes. He calls it mamosa. Bill was reasonable at least.
+Drove to Nikšić and went to Nutricia for a late lunch. I had the beef fillet but didn't like it. It was greasy. Found out about kačamak though, the cornmeal dish similar to what my dad makes. He calls it mamosa. Bill was reasonable at least.
+
+{% include post-gallery.html
+  cdn="https://photos.digitalden.cloud/gallery/montenegro-2026"
+  photos="montenegro-gallery-39.jpg|Caption,montenegro-gallery-40.jpg|Caption,montenegro-gallery-41.jpg|Caption"
+%}
 
 ---
 
 ### Evening — The Ticket
 
+![Speeding Ticket](https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-42.jpg){:  .w-25 .shadow .rounded-10 .right}
+
 Leaving Nikšić on the way to Podgorica, there's a long straight clear road. I was going about 100km/h and overtook a car. As soon as I passed, a policewoman flashed her torch and pulled me over. She seemed hostile at first. Gave her my documents and got a €60 ticket. Turns out I overtook on a solid white line. They were positioned right where it breaks into dotted and overtaking becomes legal. No speed gun so they couldn't do me for speeding. Joked around with them a bit, they showed me all the tickets they'd issued. Seemed like they were just making money.
 
 Quick ticket, paid by card on the spot, done. I like that. In the UK you'd get a notice of intended prosecution, points, a larger fine, the whole process dragged out. Here it's dealt with immediately. Fair enough. We move on.
+
+{: .clearfix }
 
 ---
 
@@ -159,7 +188,7 @@ Back to Luka's, finished the kebab, then we watched a film about Zlatan Ibrahimo
 
 ---
 
-## Day Four — Saturday 1 February
+## Day Four — Saturday 31 January
 
 **Weather:** Rainy, cloudy and icy fog in Cetinje. Clearer elsewhere.
 
@@ -169,11 +198,17 @@ Back to Luka's, finished the kebab, then we watched a film about Zlatan Ibrahimo
 
 ### Morning — Cetinje
 
+![Gallery 11](https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-9.jpg){:  .w-50 .shadow .rounded-10}
+
 Drove into Cetinje, stopped at a viewpoint overlooking the town from a cliff. Took a nice shot from above. Then popped into 357 Bakery for an americano before heading to Herkul Gym. Stepped in dog shit after. Nice cleaning that up.
+
+![Gallery 11](https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-44.jpg){:  .w-50 .shadow .rounded-10 .left}
 
 Set up the camera to film the session. 18mm, f/3.5, ISO 640, 1/25 shutter. Wide shot from above capturing the whole gym. What started as just filming the space turned into a session with the owner. Asked Saša if I could record him while he was training someone. He was happy. Ended up joining in. He taught me some good things and I got a proper workout with him, all on camera.
 
 One of the highlights of the trip. Going back Monday to train with him again and record more.
+
+{: .clearfix }
 
 ---
 
@@ -181,7 +216,17 @@ One of the highlights of the trip. Going back Monday to train with him again and
 
 Drove to Rijeka Crnojevića with Luka and Leno. First stop was down by the lake near Hotel S Family Jovićević. Experimented with long exposure for silky water. ISO 50, f/11, around 0.4 to 0.5 seconds on the tripod. Some clipping on the white house and sky but exposed for the water which was the subject. Also shot handheld at faster shutter speeds for textured water.
 
+{% include post-gallery.html
+  cdn="https://photos.digitalden.cloud/gallery/montenegro-2026"
+  photos="montenegro-gallery-45.jpg|Caption,montenegro-gallery-46.jpg|Caption,montenegro-gallery-47.jpg|Caption"
+%}
+
 Then drove up to Konoba Čeklin, a mountain cliff viewpoint. Took amazing shots there, potentially the best of the trip. There were some girls up on the cliff taking pictures. As they were leaving my friends overheard them say in Montenegrin that they liked me. I think it was because I was stroking the cat at the time, and that shows I'm loving and caring. But really I do like cats. So as one was getting in her car I spoke to her. She spoke back, seemed friendly. When I asked what she was doing tonight she said sleeping. I said ok and left it at that thinking she wasn't interested. She said goodbye and drove off. I realised after that she was probably just playing and I should have asked her to dinner. Wasn't sharp enough. Anyway, I've recently said I want to get more confident speaking to people in these natural encounters. So I'm glad I managed to speak in the first place.
+
+{% include post-gallery.html
+  cdn="https://photos.digitalden.cloud/gallery/montenegro-2026"
+  photos="montenegro-gallery-16.jpg|Caption,montenegro-gallery-18.jpg|Caption,montenegro-gallery-19.jpg|Caption"
+%}
 
 ---
 

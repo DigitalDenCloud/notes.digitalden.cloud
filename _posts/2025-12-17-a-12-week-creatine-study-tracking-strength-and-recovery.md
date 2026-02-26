@@ -239,27 +239,27 @@ If creatine does nothing measurable, that's a valid finding. The goal is to docu
 
 | Lift | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | — | 100kg × 10 | 100kg × 6 | | | | | | |
-| Bent over row | 110kg × 5 | — | 110kg × 6 | — | — | — | 120kg × 4 | | | | | | |
-| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | — | — | 70kg × 2 | | | | | | |
-| Squat | 130kg × 4 | — | 130kg × 7 | — | — | — | 120kg × 6 | | | | | | |
-| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | — | 170kg × 4 | 160kg × 6 | | | | | | |
-| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | — | — | — | | | | | | |
+| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | — | 100kg × 10 | 100kg × 6 | 110kg × 6 | | | | | |
+| Bent over row | 110kg × 5 | — | 110kg × 6 | — | — | — | 120kg × 4 | — | | | | | |
+| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | — | — | 70kg × 2 | 70kg × 2 | | | | | |
+| Squat | 130kg × 4 | — | 130kg × 7 | — | — | — | 120kg × 6 | 130kg × 8 | | | | | |
+| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | — | 170kg × 4 | 160kg × 6 | 170kg × 3 | | | | | |
+| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | — | — | — | — | | | | | |
 
 ### Secondary Indicators
 
 | Exercise | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |----------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Press ups | 80 | — | 87 | — | — | — | 75 | | | | | | |
-| Pull ups | 20 | — | — | — | — | — | 19 | | | | | | |
-| Dips | 54 | — | — | — | — | — | 45 | | | | | | |
+| Press ups | 80 | — | 87 | — | — | — | 75 | 75 | | | | | |
+| Pull ups | 20 | — | — | — | — | — | 19 | — | | | | | |
+| Dips | 54 | — | — | — | — | — | 45 | — | | | | | |
 
 ### Bodyweight & Recovery
 
 | Metric | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |--------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | 78.7 | 78.7 | 79.6 | | | | | | |
-| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | 4 | 4.5 | 3.5 | | | | | | |
+| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | 78.7 | 78.7 | 79.6 | 79.2 | | | | | |
+| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | 4 | 4.5 | 3.5 | 4 | | | | | |
 
 ---
 
@@ -486,9 +486,43 @@ Week 6 was meant to be the halfway testing week but the body wasn't cooperating.
 ---
 
 ### Week 7
-**Creatine phase:** Maintenance  
+**Creatine phase:** Maintenance (5g/day)
 
-**Notes:**
+**Summary:**
+- 5 training sessions (chest/back, shoulders, legs, back, chest)
+- Football Sunday 16th: full 90 mins in rain and cold, first match in 2 weeks, groin niggle flared, double hamstring cramps that night
+- Football cancelled Sunday 23rd — rest day
+- Slow start to week due to football fatigue, recovered well by Thursday
+- Two PRs: squat 130kg × 8 (was × 7), bench 110kg × 6 (was × 4)
+
+**Bodyweight:** 79.2kg (down from 79.6kg — trending back toward baseline)
+
+**Recovery:** 4/5 average (ranged from 3.5 to 4.5 across the week)
+
+**Tracked lifts:**
+
+| Lift | Baseline (W0) | Previous Best | Week 7 | Notes |
+|------|---------------|---------------|--------|-------|
+| Bench press | 110kg × 3 | 110kg × 4 (W2) | 110kg × 6 | New PR, +3 reps from baseline |
+| Squat | 130kg × 4 | 130kg × 7 (W2) | 130kg × 8 | New PR, had to push for it |
+| Deadlift | 160kg × 3 | 170kg × 4 (W5) | 170kg × 3 | Slight drop from W5 best |
+| Shoulder press | 70kg × 3 | 70kg × 4 (W2) | 70kg × 2 | Still below best |
+| Press-ups | 80 | 87 (W2) | 75 | Still below best |
+
+**Observations:**
+- Football after 2 weeks off caused significant fatigue — double hamstring cramps, 3 days to fully recover. Groin niggle flared again (ongoing issue for 3 years).
+- Pattern confirmed: need 3+ full days after intense football before legs session.
+- Questioning whether early study results (Week 2) were inflated by novelty/ego/camera. Week 7 results feel more reflective of sustainable performance. Both are valid data points.
+- Late heavy meal (bulgur and lamb shish) before bed affected sleep quality but not tiredness next day.
+- Bodyweight trending down from 79.6kg peak — possibly returning to baseline as Montenegro diet effects clear.
+
+**Creatine observations:**
+- No side effects
+- 5g daily maintained
+- No pump feeling this week
+
+**Reflection:**
+Week 7 started rough after football but finished strong. The 110kg × 6 bench and 130kg × 8 squat are legitimate PRs — the strongest performances of the study so far. Deadlift and shoulder press still not matching Week 2 bests, but the trend is positive. The self-doubt about early results is honest — Week 2 may have been peak motivation, Week 7 is grind-it-out consistency. Both matter. Five weeks to go.
 
 ---
 
