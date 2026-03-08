@@ -5,8 +5,8 @@ categories: [Nutrition, Recipe]
 tags: [Recipe, Baking, Blueberry, Finnish Food]
 description: "A Finnish blueberry pie adapted for UK ingredients. Full method, nutrition breakdown, and notes from a second-time baker."
 image:
-  path: https://photos.digitalden.cloud/img/headers/blueberry-pie.webp
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACwBACdASoUABQAPxGAt1WsJ6UjKAgBgCIJQBdl+pAcoJbGeyWKNKTHG2Hj3HAAAP65RocqOx4Yp3Z4GLII6QOr1YdKgKFDmfi9JWOSHABxwhUTdwXv8skcukhv8STVvVrG9FbJ8E2rIjUZwgIfK8QB+rToOmYV9/m+9l60d5+LsKiyFL7mXqI771yAAAAA
+  path: https://photos.digitalden.cloud/img/headers/blueberry-pie.jpg
+  lqip: data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwBACdASoUABQAPxF6sFMsJ6QiqA1RgCIJQBg5giOzzRZMumWkbDOJyxgEER4AAP6kEQul8fFrFRVA/AClNRVNncqT1i7RLp1oy4Xxz6m0xZY7YoIA4Rfcf8TKAO1jYhjok+JTj/rVYeXAAAA=
 ---
 
 I watched a [DW Food video](https://www.youtube.com/watch?v=57HYrItZiKc){:target="_blank"} called *Why Finns are obsessed with blueberries* on a Saturday afternoon. A Finnish blogger called Varpu makes a blueberry pie from scratch midway through and calls it a 5-minute family recipe. I wanted to make it. The recipe was buried in 10 minutes of footage with no pinned comment or timestamp, so I used an [AWS Transcribe pipeline](https://docs.digitalden.cloud/posts/extracting-a-recipe-from-youtube-with-aws-transcribe/){:target="_blank"} to extract it as plain text. From there I adapted it for UK ingredients and baked it the same evening.

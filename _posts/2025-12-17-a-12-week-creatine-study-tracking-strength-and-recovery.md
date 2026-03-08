@@ -239,27 +239,27 @@ If creatine does nothing measurable, that's a valid finding. The goal is to docu
 
 | Lift | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | — | 100kg × 10 | 100kg × 6 | 110kg × 6 | | | | | |
-| Bent over row | 110kg × 5 | — | 110kg × 6 | — | — | — | 120kg × 4 | — | | | | | |
-| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | — | — | 70kg × 2 | 70kg × 2 | | | | | |
-| Squat | 130kg × 4 | — | 130kg × 7 | — | — | — | 120kg × 6 | 130kg × 8 | | | | | |
-| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | — | 170kg × 4 | 160kg × 6 | 170kg × 3 | | | | | |
-| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | — | — | — | — | | | | | |
+| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | — | 100kg × 10 | 100kg × 6 | 110kg × 6 | 110kg × 4 | | | | |
+| Bent over row | 110kg × 5 | — | 110kg × 6 | — | — | — | 120kg × 4 | — | 110kg × 10 | | | | |
+| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | — | — | 70kg × 2 | 70kg × 2 | — | | | | |
+| Squat | 130kg × 4 | — | 130kg × 7 | — | — | — | 120kg × 6 | 130kg × 8 | 130kg × 10 | | | | |
+| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | — | 170kg × 4 | 160kg × 6 | 170kg × 3 | 170kg × 2 | | | | |
+| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | — | — | — | — | — | | | | |
 
 ### Secondary Indicators
 
 | Exercise | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |----------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Press ups | 80 | — | 87 | — | — | — | 75 | 75 | | | | | |
-| Pull ups | 20 | — | — | — | — | — | 19 | — | | | | | |
-| Dips | 54 | — | — | — | — | — | 45 | — | | | | | |
+| Press ups | 80 | — | 87 | — | — | — | 75 | 75 | — | | | | |
+| Pull ups | 20 | — | — | — | — | — | 19 | — | 18 | | | | |
+| Dips | 54 | — | — | — | — | — | 45 | — | — | | | | |
 
 ### Bodyweight & Recovery
 
 | Metric | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |--------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | 78.7 | 78.7 | 79.6 | 79.2 | | | | | |
-| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | 4 | 4.5 | 3.5 | 4 | | | | | |
+| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | 78.7 | 78.7 | 79.6 | 79.2 | 79.2 | | | | |
+| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | 4 | 4.5 | 3.5 | 4 | 4 | | | | |
 
 ---
 
@@ -527,9 +527,45 @@ Week 7 started rough after football but finished strong. The 110kg × 6 bench an
 ---
 
 ### Week 8
-**Creatine phase:** Maintenance  
+**Creatine phase:** Maintenance (5g/day)
 
-**Notes:**
+**Summary:**
+- 5 training sessions (legs, back, chest, legs, shoulders)
+- Football: 5-a-side Monday evening (less demanding than grass), Sunday cancelled
+- No full 90-min match this week
+- Three PRs: squat 130kg × 9 then × 10, bent over row 110kg × 10
+- 40kg dumbbell shoulder press × 2 achieved (first time, not tracked)
+
+**Bodyweight:** 79.2kg (unchanged from Week 7)
+
+**Recovery:** 4/5 average (ranged from 3.5 to 4.5)
+
+**Tracked lifts:**
+
+| Lift | Baseline (W0) | Previous Best | Week 8 | Notes |
+|------|---------------|---------------|--------|-------|
+| Squat | 130kg × 4 | 130kg × 8 (W7) | 130kg × 10 | New PR, depth could improve on last reps |
+| Bent over row | 110kg × 5 | 110kg × 6 (W2) | 110kg × 10 | New PR, using wraps (grip limited) |
+| Bench press | 110kg × 3 | 110kg × 6 (W7) | 110kg × 4 × 4 sets | Volume work, not PR attempt |
+| Deadlift | 160kg × 3 | 170kg × 4 (W5) | 170kg × 2 | Still working on technique — harder with improved form |
+| Pull-ups | 20 | — | 18 | Struggling to hit 20 again |
+
+**Observations:**
+- Two squat PRs in one week (× 9 Monday, × 10 Friday) — consistent progression.
+- Bent over row jumped from 6 reps to 10 at same weight — significant improvement, though wraps helping with grip.
+- Deadlift technique still a work in progress — not that I'm not pushing heavy, but the improved form makes it harder.
+- Pull-ups stuck at 18, below baseline 20. Not trained specifically to failure often.
+- 5-a-side on astro less demanding than grass — recovered well.
+- 40kg dumbbell shoulder press × 2 for 3 sets — first time at this weight, good milestone.
+- Legs needed extra recovery after Friday session (3.5 Saturday/Sunday).
+
+**Creatine observations:**
+- No side effects
+- 5g daily maintained
+- No pump feeling this week
+
+**Reflection:**
+Week 8 was productive. Squat and row both hit new PRs, and the 40kg dumbbell shoulder press is a personal milestone even if untracked. Deadlift still lagging due to technique focus — accepting that trade-off. Pull-ups not improving, but also not being trained specifically. No football on grass this week gave the body a break. Four weeks to go.
 
 ---
 
