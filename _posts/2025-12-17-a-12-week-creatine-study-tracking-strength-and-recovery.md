@@ -239,27 +239,27 @@ If creatine does nothing measurable, that's a valid finding. The goal is to docu
 
 | Lift | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | — | 100kg × 10 | 100kg × 6 | 110kg × 6 | 110kg × 4 | | | | |
-| Bent over row | 110kg × 5 | — | 110kg × 6 | — | — | — | 120kg × 4 | — | 110kg × 10 | | | | |
-| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | — | — | 70kg × 2 | 70kg × 2 | — | | | | |
-| Squat | 130kg × 4 | — | 130kg × 7 | — | — | — | 120kg × 6 | 130kg × 8 | 130kg × 10 | | | | |
-| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | — | 170kg × 4 | 160kg × 6 | 170kg × 3 | 170kg × 2 | | | | |
-| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | — | — | — | — | — | | | | |
+| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | — | 100kg × 10 | 100kg × 6 | 110kg × 6 | 110kg × 4 | 110kg × 5 | | | |
+| Bent over row | 110kg × 5 | — | 110kg × 6 | — | — | — | 120kg × 4 | — | 110kg × 10 | 110kg × 8 | | | |
+| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | — | — | 70kg × 2 | 70kg × 2 | — | 80kg × 1 | | | |
+| Squat | 130kg × 4 | — | 130kg × 7 | — | — | — | 120kg × 6 | 130kg × 8 | 130kg × 10 | 140kg × 6 | | | |
+| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | — | 170kg × 4 | 160kg × 6 | 170kg × 3 | 170kg × 2 | 180kg × 2 | | | |
+| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | — | — | — | — | — | — | | | |
 
 ### Secondary Indicators
 
 | Exercise | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |----------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Press ups | 80 | — | 87 | — | — | — | 75 | 75 | — | | | | |
-| Pull ups | 20 | — | — | — | — | — | 19 | — | 18 | | | | |
-| Dips | 54 | — | — | — | — | — | 45 | — | — | | | | |
+| Press ups | 80 | — | 87 | — | — | — | 75 | 75 | — | — | | | |
+| Pull ups | 20 | — | — | — | — | — | 19 | — | 18 | — | | | |
+| Dips | 54 | — | — | — | — | — | 45 | — | — | — | | | |
 
 ### Bodyweight & Recovery
 
 | Metric | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |--------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | 78.7 | 78.7 | 79.6 | 79.2 | 79.2 | | | | |
-| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | 4 | 4.5 | 3.5 | 4 | 4 | | | | |
+| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | 78.7 | 78.7 | 79.6 | 79.2 | 79.2 | 79.6 | | | |
+| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | 4 | 4.5 | 3.5 | 4 | 4 | 4.5 | | | |
 
 ---
 
@@ -570,9 +570,46 @@ Week 8 was productive. Squat and row both hit new PRs, and the 40kg dumbbell sho
 ---
 
 ### Week 9
-**Creatine phase:** Maintenance  
+**Creatine phase:** Maintenance (5g/day)
 
-**Notes:**
+**Summary:**
+- 5 training sessions (chest/back in London, back, chest, legs, shoulders in Bodrum)
+- No football (travelling)
+- Flew to Bodrum Tuesday for working trip — gym access, cooking, controlled routine
+- Swimming 5 mins daily (cold), 10k steps most days
+- Three PRs: squat 140kg × 6 (new weight), deadlift 180kg × 2 (new weight), shoulder press 70kg × 6 and 80kg × 1 (bodyweight overhead)
+- Recovery highest of the study — 4.5-5/5 most days
+
+**Bodyweight:** 79.6kg (Monday in London)
+
+**Recovery:** 4.5/5 average (ranged from 4 to 5 — highest week of study)
+
+**Tracked lifts:**
+
+| Lift | Baseline (W0) | Previous Best | Week 9 | Notes |
+|------|---------------|---------------|--------|-------|
+| Squat | 130kg × 4 | 130kg × 10 (W8) | 140kg × 6 | New weight PR |
+| Deadlift | 160kg × 3 | 170kg × 4 (W5) | 180kg × 2 | New weight PR, 200kg failed |
+| Shoulder press | 70kg × 3 | 70kg × 4 (W2) | 70kg × 6, 80kg × 1 | New rep PR and weight PR — bodyweight overhead |
+| Bench press | 110kg × 3 | 110kg × 6 (W7) | 110kg × 5 | Slightly below best |
+| Bent over row | 110kg × 5 | 110kg × 10 (W8) | 110kg × 8 | Below best |
+
+**Observations:**
+- Bodrum environment clearly helping — sun, rest, no football, controlled eating, good sleep (10-11pm to 8am natural wake).
+- Pump returned and sustained through the week — likely from higher carb intake (bread, pide daily) rather than creatine. Body not used to this level of carbs.
+- 80kg shoulder press is a milestone — first time pressing bodyweight overhead.
+- 140kg squat and 180kg deadlift both new weight PRs — strength trending up.
+- 200kg deadlift still failing — getting closer but not there yet.
+- Cold morning swims (5 mins) and 10k walks as daily routine.
+- Incline bench 100kg × 2 × 3 sets achieved — impressive given shoulder history, but worth being cautious.
+
+**Creatine observations:**
+- No side effects
+- 5g daily maintained
+- Pump present but attributed more to carbs than creatine
+
+**Reflection:**
+Week 9 was the strongest week of the study. Three weight PRs (squat 140kg, deadlift 180kg, shoulder press 80kg), highest recovery scores, and the best overall feeling. The Bodrum setup is working — sun, sleep, no football fatigue, and higher carbs seem to be the formula. Pressing bodyweight overhead is a personal milestone. One more week in Bodrum before returning to London.
 
 ---
 

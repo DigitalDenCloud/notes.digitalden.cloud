@@ -55,9 +55,9 @@ I came back from Bodrum and started filming at the gym. Training is a big part o
 
 Different challenge entirely to Bodrum. The gym is low light, overhead fluorescents, no natural light. Everything I learned in bright sunshine did not apply. ISO climbed above 1000. The kit lens maxed out at f/4.0 at my working focal length. Aperture priority mode caused exposure fluctuations as I moved through the frame. I had to learn full manual exposure, lock ISO, set white balance to 3000K for the industrial look I wanted, and break the 180-degree shutter rule by shooting at 1/25 instead of 1/50 to claw back a stop of light.
 
-That process became a full technical reference document. I wrote [Low Light Gym Filming](/posts/low-light-gym-filming/){:target="_blank"} to capture everything I learned. Camera settings, exposure configuration, focal length selection, common issues, and the lens upgrade path I was already thinking about.
+That process became a full technical reference document. I wrote [Low Light Gym Filming](/_posts/2026-01-01-low-light-gym-filming.md){:target="_blank"} to capture everything I learned. Camera settings, exposure configuration, focal length selection, common issues, and the lens upgrade path I was already thinking about.
 
-But something shifted. I did not enjoy filming myself training. So I started filming my friend who I train with instead, creating videos for him. That evolved into a full [After Effects workflow](/posts/after-effects-workflow-verticle-4k-gym-video/){:target="_blank"} for vertical 4K gym videos. Marker-driven rep counters, cinematic motion, export settings that survive platform compression. I then offered to film some PTs in my gym who needed content. I started really enjoying the recording process.
+But something shifted. I did not enjoy filming myself training. So I started filming my friend who I train with instead, creating videos for him. That evolved into a full [After Effects workflow](/_posts/2026-01-18-after-effects-workflow-verticle-4k-gym-video.md){:target="_blank"} for vertical 4K gym videos. Marker-driven rep counters, cinematic motion, export settings that survive platform compression. I then offered to film some PTs in my gym who needed content. I started really enjoying the recording process.
 
 That is when I realised something. Everyone in gyms films with a tripod, locked off, static shot. Nobody goes handheld. And since I do not want to be in the shot myself, I can be the one behind the camera, moving with the subject, getting angles nobody else bothers to get. That is where I am now with gym filming.
 
@@ -89,7 +89,7 @@ I experimented with long exposure for silky water at Rijeka Crnojevića. ISO 50,
 
 Bodrum taught me the basics. Montenegro tested whether I had actually learned them. Every day was a different environment with different problems, and I had to adapt on the spot. That week did more for my understanding of the camera than any amount of research could have.
 
-The full trip is documented in [Montenegro — January 2026](/posts/montenegro-january-2026/){:target="_blank"}.
+The full trip is documented in [Montenegro — January 2026](/_posts/2026-01-27-montenegro-january-2026.md){:target="_blank"}.
 
 ---
 
@@ -97,7 +97,7 @@ The full trip is documented in [Montenegro — January 2026](/posts/montenegro-j
 
 Coming back from Montenegro with 1,668 RAW files forced me to learn Lightroom Classic. I had never edited a photo before.
 
-I started by learning to cull. AI-assisted culling flagged 429 rejects on the first pass. Many were false positives on landscapes because the AI expects a defined subject and scenic depth does not give it one. I reviewed every reject manually, trimmed bursts, rated the keepers, and brought the total down to 467 across multiple deliberate passes. That process is documented in [Culling 1,668 Photos from Montenegro](/posts/culling-1668-photos-from-montenegro/){:target="_blank"}.
+I started by learning to cull. AI-assisted culling flagged 429 rejects on the first pass. Many were false positives on landscapes because the AI expects a defined subject and scenic depth does not give it one. I reviewed every reject manually, trimmed bursts, rated the keepers, and brought the total down to 467 across multiple deliberate passes. That process is documented in [Culling 1,668 Photos from Montenegro](/_posts/2026-02-17-culling-1668-photos-from-montenegro.md){:target="_blank"}.
 
 Then I learned to edit. Profile selection, white balance, tonal adjustments, HSL colour work, masking, noise reduction. I built a test group of five images representing different conditions, edited the first one from scratch, saved it as a preset, and tested it across the others. The preset brought the total from 467 down to 341 as a final quality filter. Some images that survived culling did not survive editing. That process is documented in [Editing 341 Photos from Montenegro](/posts/editing-341-photos-from-montenegro/){:target="_blank"}.
 
@@ -111,7 +111,7 @@ Then I realised I could build something myself. My blog runs on Jekyll with the 
 
 The photos serve through [photos.digitalden.cloud](https://photos.digitalden.cloud){:target="_blank"}. The gallery lives at [notes.digitalden.cloud/gallery/](https://notes.digitalden.cloud/gallery/){:target="_blank"}. When someone asks if I have social media, I give them my website instead. Full-resolution images, no compression, no algorithm, no account needed. I control the data and the presentation. As a cloud engineer, that matters to me.
 
-The full build is documented in [Adding a Photo Gallery to Jekyll Chirpy](/posts/adding-a-photo-gallery-to-jekyll-chirpy/){:target="_blank"}.
+The full build is documented in [Adding a Photo Gallery to Jekyll Chirpy](/_posts/2026-02-19-adding-a-photo-gallery-to-jekyll-chirpy.md){:target="_blank"}.
 
 ---
 
@@ -127,11 +127,15 @@ I started because I wanted to put my face on a screen recording. Five months lat
 
 ## What Comes Next
 
-I am going back to Bodrum on 3 March. This time I have an ND filter, clean glass, and five months of experience I did not have the first time. I know the locations. I know the light. I want to see how different the shots look now compared to November.
+I am in Bodrum now, writing this on 3 March. This time I have an ND filter, clean glass, and six months of experience I did not have the first time. I know the locations. I know the light. But this trip is not just about better photos. I have started teaching myself video.
 
-I want to film a friend playing football. Different scenario, different challenges. Fast movement, outdoor light, tracking a subject across a pitch. Every new situation forces me to learn something I did not know before. That is the pattern. Bodrum taught me exposure. The gym taught me manual settings. Jiu-jitsu taught me action photography. Montenegro taught me to adapt to conditions. Football will teach me something else.
+Not a vlog. Not a tutorial. A compilation of Bodrum, 60 to 90 seconds of clips cut together with music. Places I go, shot well enough to feel intentional. I am learning scene by scene, documenting every setting, every mistake, every realisation as it happens. The market taught me to let the scene create the action and hold still. The beach taught me that light direction matters more than any camera setting. The ND filter taught me to check colour before exposure.
 
-Beyond personal work, I want to build this into a portfolio. The same way I built my AWS career from scratch, documenting everything, learning in public, building skills until the work speaks for itself. I do not know exactly where photography goes from here. Maybe portfolio work. Maybe paid shoots. Maybe content for others. For now I am enjoying the process, and the process is teaching me everything I need.
+It is the same pattern again. Pick the thing up. Get absorbed. Let the process reveal what it becomes.
+
+I still want to film a friend playing football. Fast movement, outdoor light, tracking a subject across a pitch. Every new situation forces me to learn something I did not know before. Bodrum taught me exposure. The gym taught me manual settings. Jiu-jitsu taught me action photography. Montenegro taught me to adapt to conditions. Video is teaching me composition, movement, and when to hold still. Football will teach me something else.
+
+Beyond personal work, I want to build this into a portfolio. The same way I built my AWS career from scratch, documenting everything, learning in public, building skills until the work speaks for itself. I do not know exactly where photography and videography go from here. Maybe portfolio work. Maybe paid shoots. Maybe content for others. For now I am enjoying the process, and the process is teaching me everything I need.
 
 ---
 
