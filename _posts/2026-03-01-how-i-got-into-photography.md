@@ -51,13 +51,13 @@ There was not one single moment where I thought "I enjoy this." It was more grad
 
 ## Gym Filming — December 2025 to January 2026
 
-I came back from Bodrum and started filming at the gym. Training is a big part of my life. Around that time I was starting a [12 week creatine study](/posts/a-12-week-creatine-study-tracking-strength-and-recovery/){:target="_blank"}, tracking the effects of supplementation on strength and recovery under real world conditions. I wanted to record my lifts to track progress, so I set up the tripod and started filming.
+I came back from Bodrum and started filming at the gym. Training is a big part of my life. Around that time I was starting a [12 week creatine study](https://notes.digitalden.cloud/posts/a-12-week-creatine-study-tracking-strength-and-recovery/){:target="_blank"}, tracking the effects of supplementation on strength and recovery under real world conditions. I wanted to record my lifts to track progress, so I set up the tripod and started filming.
 
 Different challenge entirely to Bodrum. The gym is low light, overhead fluorescents, no natural light. Everything I learned in bright sunshine did not apply. ISO climbed above 1000. The kit lens maxed out at f/4.0 at my working focal length. Aperture priority mode caused exposure fluctuations as I moved through the frame. I had to learn full manual exposure, lock ISO, set white balance to 3000K for the industrial look I wanted, and break the 180-degree shutter rule by shooting at 1/25 instead of 1/50 to claw back a stop of light.
 
-That process became a full technical reference document. I wrote [Low Light Gym Filming](/_posts/2026-01-01-low-light-gym-filming.md){:target="_blank"} to capture everything I learned. Camera settings, exposure configuration, focal length selection, common issues, and the lens upgrade path I was already thinking about.
+That process became a full technical reference document. I wrote [Low Light Gym Filming](https://notes.digitalden.cloud/posts/low-light-gym-filming/){:target="_blank"} to capture everything I learned. Camera settings, exposure configuration, focal length selection, common issues, and the lens upgrade path I was already thinking about.
 
-But something shifted. I did not enjoy filming myself training. So I started filming my friend who I train with instead, creating videos for him. That evolved into a full [After Effects workflow](/_posts/2026-01-18-after-effects-workflow-verticle-4k-gym-video.md){:target="_blank"} for vertical 4K gym videos. Marker-driven rep counters, cinematic motion, export settings that survive platform compression. I then offered to film some PTs in my gym who needed content. I started really enjoying the recording process.
+But something shifted. I did not enjoy filming myself training. So I started filming my friend who I train with instead, creating videos for him. That evolved into a full [After Effects workflow](https://notes.digitalden.cloud/posts/after-effects-workflow-verticle-4k-gym-video/){:target="_blank"} for vertical 4K gym videos. Marker-driven rep counters, cinematic motion, export settings that survive platform compression. I then offered to film some PTs in my gym who needed content. I started really enjoying the recording process.
 
 That is when I realised something. Everyone in gyms films with a tripod, locked off, static shot. Nobody goes handheld. And since I do not want to be in the shot myself, I can be the one behind the camera, moving with the subject, getting angles nobody else bothers to get. That is where I am now with gym filming.
 
@@ -89,7 +89,7 @@ I experimented with long exposure for silky water at Rijeka Crnojevića. ISO 50,
 
 Bodrum taught me the basics. Montenegro tested whether I had actually learned them. Every day was a different environment with different problems, and I had to adapt on the spot. That week did more for my understanding of the camera than any amount of research could have.
 
-The full trip is documented in [Montenegro — January 2026](/_posts/2026-01-27-montenegro-january-2026.md){:target="_blank"}.
+The full trip is documented in [Montenegro — January 2026](https://notes.digitalden.cloud/posts/montenegro-january-2026/){:target="_blank"}.
 
 ---
 
@@ -97,9 +97,9 @@ The full trip is documented in [Montenegro — January 2026](/_posts/2026-01-27-
 
 Coming back from Montenegro with 1,668 RAW files forced me to learn Lightroom Classic. I had never edited a photo before.
 
-I started by learning to cull. AI-assisted culling flagged 429 rejects on the first pass. Many were false positives on landscapes because the AI expects a defined subject and scenic depth does not give it one. I reviewed every reject manually, trimmed bursts, rated the keepers, and brought the total down to 467 across multiple deliberate passes. That process is documented in [Culling 1,668 Photos from Montenegro](/_posts/2026-02-17-culling-1668-photos-from-montenegro.md){:target="_blank"}.
+I started by learning to cull. AI-assisted culling flagged 429 rejects on the first pass. Many were false positives on landscapes because the AI expects a defined subject and scenic depth does not give it one. I reviewed every reject manually, trimmed bursts, rated the keepers, and brought the total down to 467 across multiple deliberate passes. That process is documented in [Culling 1,668 Photos from Montenegro](https://notes.digitalden.cloud/posts/culling-1668-photos-from-montenegro/){:target="_blank"}.
 
-Then I learned to edit. Profile selection, white balance, tonal adjustments, HSL colour work, masking, noise reduction. I built a test group of five images representing different conditions, edited the first one from scratch, saved it as a preset, and tested it across the others. The preset brought the total from 467 down to 341 as a final quality filter. Some images that survived culling did not survive editing. That process is documented in [Editing 341 Photos from Montenegro](/posts/editing-341-photos-from-montenegro/){:target="_blank"}.
+Then I learned to edit. Profile selection, white balance, tonal adjustments, HSL colour work, masking, noise reduction. I built a test group of five images representing different conditions, edited the first one from scratch, saved it as a preset, and tested it across the others. The preset brought the total from 467 down to 341 as a final quality filter. Some images that survived culling did not survive editing. That process is documented in [Editing 341 Photos from Montenegro](https://notes.digitalden.cloud/posts/editing-341-photos-from-montenegro-in-lightroom-classic/){:target="_blank"}.
 
 ---
 
@@ -111,7 +111,7 @@ Then I realised I could build something myself. My blog runs on Jekyll with the 
 
 The photos serve through [photos.digitalden.cloud](https://photos.digitalden.cloud){:target="_blank"}. The gallery lives at [notes.digitalden.cloud/gallery/](https://notes.digitalden.cloud/gallery/){:target="_blank"}. When someone asks if I have social media, I give them my website instead. Full-resolution images, no compression, no algorithm, no account needed. I control the data and the presentation. As a cloud engineer, that matters to me.
 
-The full build is documented in [Adding a Photo Gallery to Jekyll Chirpy](/_posts/2026-02-19-adding-a-photo-gallery-to-jekyll-chirpy.md){:target="_blank"}.
+The full build is documented in [Adding a Photo Gallery to Jekyll Chirpy](https://notes.digitalden.cloud/posts/adding-a-photo-gallery-to-jekyll-chirpy/){:target="_blank"}.
 
 ---
 
