@@ -4,6 +4,9 @@ date: 2026-03-01
 categories: [Photography, Gear]
 tags: [Sony A6700, Sony 18-135mm, Photography, Video, Gear]
 description: "Everything I own for the Sony A6700. What I bought, when, where from, what it cost, and why."
+image:
+  path: /assets/img/headers/sony-a6700.webp
+  lqip: data:image/webp;base64,UklGRqAAAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBIAAAABD9D/iAiIBZOd+WsnENH/oBFWUDggaAAAAHAEAJ0BKhQAFAA/EYC4VawoJSMoCAGAIglAFqNpiCT9JIqj8r/xRK5zr90AAJvzRQI6j3wqY4E9UIw+IXMl6mfvwnq0CRf8ZXDC5SPv6PlhAB2QoyFlhQOMh4oJMLRJTVUIKFEoVZwA
 ---
 
 ## Overview

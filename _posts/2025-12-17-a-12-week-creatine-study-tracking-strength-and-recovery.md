@@ -239,27 +239,27 @@ If creatine does nothing measurable, that's a valid finding. The goal is to docu
 
 | Lift | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | — | 100kg × 10 | 100kg × 6 | 110kg × 6 | 110kg × 4 | 110kg × 5 | | | |
-| Bent over row | 110kg × 5 | — | 110kg × 6 | — | — | — | 120kg × 4 | — | 110kg × 10 | 110kg × 8 | | | |
-| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | — | — | 70kg × 2 | 70kg × 2 | — | 80kg × 1 | | | |
-| Squat | 130kg × 4 | — | 130kg × 7 | — | — | — | 120kg × 6 | 130kg × 8 | 130kg × 10 | 140kg × 6 | | | |
-| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | — | 170kg × 4 | 160kg × 6 | 170kg × 3 | 170kg × 2 | 180kg × 2 | | | |
-| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | — | — | — | — | — | — | | | |
+| Bench press | 110kg × 3 | — | 110kg × 4 | 120kg × 1 | — | 100kg × 10 | 100kg × 6 | 110kg × 6 | 110kg × 4 | 110kg × 5 | 110kg × 4 | | |
+| Bent over row | 110kg × 5 | — | 110kg × 6 | — | — | — | 120kg × 4 | — | 110kg × 10 | 110kg × 8 | 110kg × 10 | | |
+| Shoulder press | 70kg × 3 | — | 70kg × 4 | — | — | — | 70kg × 2 | 70kg × 2 | — | 80kg × 1 | 70kg × 3 | | |
+| Squat | 130kg × 4 | — | 130kg × 7 | — | — | — | 120kg × 6 | 130kg × 8 | 130kg × 10 | 140kg × 6 | 130kg × 6 | | |
+| Deadlift | 160kg × 3 | — | 160kg × 3 | 190kg × 1 | — | 170kg × 4 | 160kg × 6 | 170kg × 3 | 170kg × 2 | 180kg × 2 | 160kg × 3 | | |
+| Weighted pull ups | 40kg × 3 | — | 40kg × 4 | — | — | — | — | — | — | — | — | | |
 
 ### Secondary Indicators
 
 | Exercise | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |----------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Press ups | 80 | — | 87 | — | — | — | 75 | 75 | — | — | | | |
-| Pull ups | 20 | — | — | — | — | — | 19 | — | 18 | — | | | |
-| Dips | 54 | — | — | — | — | — | 45 | — | — | — | | | |
+| Press ups | 80 | — | 87 | — | — | — | 75 | 75 | — | — | — | | |
+| Pull ups | 20 | — | — | — | — | — | 19 | — | 18 | — | 20 | | |
+| Dips | 54 | — | — | — | — | — | 45 | — | — | — | — | | |
 
 ### Bodyweight & Recovery
 
 | Metric | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
 |--------|----|----|----|----|----|----|----|----|----|----|-----|-----|-----|
-| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | 78.7 | 78.7 | 79.6 | 79.2 | 79.2 | 79.6 | | | |
-| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | 4 | 4.5 | 3.5 | 4 | 4 | 4.5 | | | |
+| Bodyweight (kg) | 78 | 79.3 | 79 | 78.7 | 78.7 | 78.7 | 79.6 | 79.2 | 79.2 | 79.6 | 80.1 | | |
+| Recovery (1-5) | 4 | 3.5 | 4 | 3.5 | 4 | 4.5 | 3.5 | 4 | 4 | 4.5 | 4 | | |
 
 ---
 
@@ -614,9 +614,49 @@ Week 9 was the strongest week of the study. Three weight PRs (squat 140kg, deadl
 ---
 
 ### Week 10
-**Creatine phase:** Maintenance  
+**Creatine phase:** Maintenance (5g/day)
 
-**Notes:**
+**Summary:**
+- 4 training sessions (back, chest, legs, shoulders)
+- No football (still in Bodrum)
+- Sunday busy at lake — rest day
+- Recovery trending down through the week (4.5 → 4 → 3.5 → 4)
+- Diet less consistent — 2 meals some days, lower protein, more holiday-style eating (cakes, etc.)
+- Busy outside gym — filming, swimming, walking, long days
+- No new PRs this week — lifts holding but not progressing
+
+**Bodyweight:** 80.1kg (highest of study, +2.1kg from baseline)
+
+**Recovery:** 4/5 average (ranged from 3.5 to 4.5)
+
+**Tracked lifts:**
+
+| Lift | Baseline (W0) | Previous Best | Week 10 | Notes |
+|------|---------------|---------------|---------|-------|
+| Pull-ups | 20 | 20 (W0) | 20 | Matched baseline, felt easier than W0 |
+| Bent over row | 110kg × 5 | 110kg × 10 (W8) | 110kg × 10 | Matched best |
+| Bench press | 110kg × 3 | 110kg × 6 (W7) | 110kg × 4 | Below best, felt harder |
+| Squat | 130kg × 4 | 140kg × 6 (W9) | 130kg × 6 | Below recent bests |
+| Deadlift | 160kg × 3 | 180kg × 2 (W9) | 160kg × 3 | Matched baseline, felt heavy |
+| Shoulder press | 70kg × 3 | 80kg × 1 (W9) | 70kg × 3, 80kg fail | Couldn't lock out 80kg — got stuck halfway |
+
+**Observations:**
+- Bodyweight peaked at 80.1kg — carbs and bread doing their job.
+- Pump faded this week — likely from less consistent meals.
+- Recovery lower than Week 9 — busy days (filming, lake, walking) taking energy outside gym.
+- Diet less structured — 2 meals some days, lower protein than London. Showing in performance.
+- 80kg shoulder press failed — got it last week, stuck halfway this week. Could be fatigue or the 10k walk before training.
+- Lifts holding at baseline/recent levels but not progressing — acceptable given context.
+- Swimming 5 mins daily still consistent.
+- Sleep still good — 11pm to 7:30am natural wake.
+
+**Creatine observations:**
+- No side effects
+- 5g daily maintained
+- Pump faded this week
+
+**Reflection:**
+Week 10 was a consolidation week. No PRs, but lifts held steady despite less structured eating and busy days outside the gym. The 80kg shoulder press fail is a reminder that Week 9's peak performance came with better recovery and nutrition. Bodyweight hit 80.1kg — highest of the study — but performance didn't match. Energy went into filming, walking, swimming, and enjoying Bodrum rather than pure gym focus. That's fine. Two weeks to go. Week 11 in Bodrum (4 sessions), then fly back Saturday for Sunday football. 3 hour time difference to adjust to.
 
 ---
 
