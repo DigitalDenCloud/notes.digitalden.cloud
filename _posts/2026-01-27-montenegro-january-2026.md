@@ -494,11 +494,6 @@ Good trip. Good company. Good reset.
 
 ---
 
-Perfect. Here it is all together, clean and ready to paste into your post.
-
-No em dashes. Tight tone. Correct totals.
-
-```markdown
 ## Trip Cost Breakdown — Montenegro (27 Jan to 5 Feb 2026)
 
 | Category | Amount (£) | Notes |
@@ -529,6 +524,3 @@ It is also worth noting that I only paid for one night of accommodation. Luka ho
 If I remove the Airbnb and the two fines, the core travel cost drops to roughly £700 to £750. For a week abroad with a rental car, regular meals out and full flexibility, that feels reasonable.
 
 The car is what pushed the cost up. The freedom to drive anywhere, take mountain roads and explore properly came at a price. For me, it was worth it.
-```
-
-If you want it slightly more minimal or more analytical, I can adjust the tone further.
