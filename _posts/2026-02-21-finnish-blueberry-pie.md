@@ -5,7 +5,7 @@ categories: [Nutrition, Recipe]
 tags: [Recipe, Baking, Blueberry, Finnish Food]
 description: "A Finnish blueberry pie adapted for UK ingredients. Full method, nutrition breakdown, and notes from a second-time baker."
 image:
-  path: https://photos.digitalden.cloud/img/headers/blueberry-pie.jpg
+  path: /assets/img/headers/blueberry-pie.webp
   lqip: data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwBACdASoUABQAPxF6sFMsJ6QiqA1RgCIJQBg5giOzzRZMumWkbDOJyxgEER4AAP6kEQul8fFrFRVA/AClNRVNncqT1i7RLp1oy4Xxz6m0xZY7YoIA4Rfcf8TKAO1jYhjok+JTj/rVYeXAAAA=
 ---
 

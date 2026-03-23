@@ -4,6 +4,9 @@ date: 2026-03-06
 categories: [Photography, Settings]
 tags: [Sony A6700, Camera Settings, Travel Photography, Bodrum, Field Reference]
 description: "A field settings reference for the Sony A6700 built from real shooting in Bodrum. Scenario settings and what I learned from each."
+image:
+  path: /assets/img/headers/bodrum-field-settings.webp
+  lqip: data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADQBACdASoUABQAPxGAuFWsKCUjKAgBgCIJYgCsIUymAAGwzn1jRt/ZLA8KRMhrOAD90NQ8Bc4Evlvi9Vafp19jXuIM1P2w1sBKau0k6sObya+XIJg574HTdYaDVox2AHbkEgcPz6K2+/dbXRSDyeLK0LtIW8bpCnX+EAQrfi7AwCZxUfHghs8yXVYBnoqkYFPMQOy7lj34lQAA
 ---
 
 ## Introduction

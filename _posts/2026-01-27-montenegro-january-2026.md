@@ -5,8 +5,8 @@ categories: [Travel, Journal]
 tags: [Montenegro, Photography, Sony A6700, Travel]
 description: "A week in Montenegro with the A6700. Mountains, coast, snow, and rain."
 image: 
-  path: https://photos.digitalden.cloud/gallery/montenegro-2026/full/montenegro-gallery-11.jpg
-  lqip: data:image/webp;base64,
+  path: /assets/img/headers/montenegro-gallery-11.webp
+  lqip: data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADQBACdASoUABQAPxF+tlWsJ6SjKAgBgCIJYwC7ABG0joQ7uw1H1P5ldkaoALilSAD+j0wukBc4i2ncnY/U1cQkjxFxRu03lT6WEaHuUfojXMbxFR2vYfHWY7V7R1HBsRCayMLnVphaE7hA0XzNsyG1QLhhmHlE20fF0jfu7wC1n53rXvp5YMUzzLhOMtbo1VTexx2AE7gAAA==
 ---
 
 ## Introduction
